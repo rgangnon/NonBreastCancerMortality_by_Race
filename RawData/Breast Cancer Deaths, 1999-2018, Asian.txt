@@ -1,0 +1,2134 @@
+"Notes"	"Year"	"Year Code"	"Single-Year Ages"	"Single-Year Ages Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"< 1 year"	"0"	0	78302	Unreliable
+	"1999"	"1999"	"1 year"	"1"	0	81675	Unreliable
+	"1999"	"1999"	"2 years"	"2"	0	81774	Unreliable
+	"1999"	"1999"	"3 years"	"3"	0	83592	Unreliable
+	"1999"	"1999"	"4 years"	"4"	0	83070	Unreliable
+	"1999"	"1999"	"5 years"	"5"	0	81976	Unreliable
+	"1999"	"1999"	"6 years"	"6"	0	79958	Unreliable
+	"1999"	"1999"	"7 years"	"7"	0	82724	Unreliable
+	"1999"	"1999"	"8 years"	"8"	0	80024	Unreliable
+	"1999"	"1999"	"9 years"	"9"	0	74248	Unreliable
+	"1999"	"1999"	"10 years"	"10"	0	81301	Unreliable
+	"1999"	"1999"	"11 years"	"11"	0	79521	Unreliable
+	"1999"	"1999"	"12 years"	"12"	0	76940	Unreliable
+	"1999"	"1999"	"13 years"	"13"	0	79779	Unreliable
+	"1999"	"1999"	"14 years"	"14"	0	79894	Unreliable
+	"1999"	"1999"	"15 years"	"15"	0	81318	Unreliable
+	"1999"	"1999"	"16 years"	"16"	0	83393	Unreliable
+	"1999"	"1999"	"17 years"	"17"	0	82203	Unreliable
+	"1999"	"1999"	"18 years"	"18"	0	87405	Unreliable
+	"1999"	"1999"	"19 years"	"19"	0	90435	Unreliable
+	"1999"	"1999"	"20 years"	"20"	0	90535	Unreliable
+	"1999"	"1999"	"21 years"	"21"	0	88277	Unreliable
+	"1999"	"1999"	"22 years"	"22"	0	89568	Unreliable
+	"1999"	"1999"	"23 years"	"23"	0	93312	Unreliable
+	"1999"	"1999"	"24 years"	"24"	0	99035	Unreliable
+	"1999"	"1999"	"25 years"	"25"	0	106765	Unreliable
+	"1999"	"1999"	"26 years"	"26"	0	107781	Unreliable
+	"1999"	"1999"	"27 years"	"27"	0	114932	Unreliable
+	"1999"	"1999"	"28 years"	"28"	0	113721	Unreliable
+	"1999"	"1999"	"29 years"	"29"	1	112998	Unreliable
+	"1999"	"1999"	"30 years"	"30"	1	114187	Unreliable
+	"1999"	"1999"	"31 years"	"31"	1	106547	Unreliable
+	"1999"	"1999"	"32 years"	"32"	0	104135	Unreliable
+	"1999"	"1999"	"33 years"	"33"	1	100494	Unreliable
+	"1999"	"1999"	"34 years"	"34"	3	104304	Unreliable
+	"1999"	"1999"	"35 years"	"35"	6	107642	Unreliable
+	"1999"	"1999"	"36 years"	"36"	2	106460	Unreliable
+	"1999"	"1999"	"37 years"	"37"	3	100862	Unreliable
+	"1999"	"1999"	"38 years"	"38"	5	99059	Unreliable
+	"1999"	"1999"	"39 years"	"39"	6	100717	Unreliable
+	"1999"	"1999"	"40 years"	"40"	7	102418	Unreliable
+	"1999"	"1999"	"41 years"	"41"	3	96266	Unreliable
+	"1999"	"1999"	"42 years"	"42"	10	95935	Unreliable
+	"1999"	"1999"	"43 years"	"43"	9	95819	Unreliable
+	"1999"	"1999"	"44 years"	"44"	13	92921	Unreliable
+	"1999"	"1999"	"45 years"	"45"	11	93652	Unreliable
+	"1999"	"1999"	"46 years"	"46"	19	87048	Unreliable
+	"1999"	"1999"	"47 years"	"47"	16	83690	Unreliable
+	"1999"	"1999"	"48 years"	"48"	15	80782	Unreliable
+	"1999"	"1999"	"49 years"	"49"	17	82357	Unreliable
+	"1999"	"1999"	"50 years"	"50"	19	83378	Unreliable
+	"1999"	"1999"	"51 years"	"51"	16	74502	Unreliable
+	"1999"	"1999"	"52 years"	"52"	14	68463	Unreliable
+	"1999"	"1999"	"53 years"	"53"	16	61235	Unreliable
+	"1999"	"1999"	"54 years"	"54"	10	56120	Unreliable
+	"1999"	"1999"	"55 years"	"55"	17	53527	Unreliable
+	"1999"	"1999"	"56 years"	"56"	8	49779	Unreliable
+	"1999"	"1999"	"57 years"	"57"	14	46677	Unreliable
+	"1999"	"1999"	"58 years"	"58"	26	44521	58.4
+	"1999"	"1999"	"59 years"	"59"	15	43217	Unreliable
+	"1999"	"1999"	"60 years"	"60"	20	42532	47.0
+	"1999"	"1999"	"61 years"	"61"	9	38548	Unreliable
+	"1999"	"1999"	"62 years"	"62"	16	37676	Unreliable
+	"1999"	"1999"	"63 years"	"63"	18	35960	Unreliable
+	"1999"	"1999"	"64 years"	"64"	14	35507	Unreliable
+	"1999"	"1999"	"65 years"	"65"	13	35960	Unreliable
+	"1999"	"1999"	"66 years"	"66"	6	33012	Unreliable
+	"1999"	"1999"	"67 years"	"67"	14	31905	Unreliable
+	"1999"	"1999"	"68 years"	"68"	16	30428	Unreliable
+	"1999"	"1999"	"69 years"	"69"	7	31000	Unreliable
+	"1999"	"1999"	"70 years"	"70"	8	30453	Unreliable
+	"1999"	"1999"	"71 years"	"71"	13	26996	Unreliable
+	"1999"	"1999"	"72 years"	"72"	14	26162	Unreliable
+	"1999"	"1999"	"73 years"	"73"	10	24312	Unreliable
+	"1999"	"1999"	"74 years"	"74"	9	23102	Unreliable
+	"1999"	"1999"	"75 years"	"75"	12	21932	Unreliable
+	"1999"	"1999"	"76 years"	"76"	4	19732	Unreliable
+	"1999"	"1999"	"77 years"	"77"	7	17461	Unreliable
+	"1999"	"1999"	"78 years"	"78"	6	16087	Unreliable
+	"1999"	"1999"	"79 years"	"79"	8	14711	Unreliable
+	"1999"	"1999"	"80 years"	"80"	7	13628	Unreliable
+	"1999"	"1999"	"81 years"	"81"	5	10610	Unreliable
+	"1999"	"1999"	"82 years"	"82"	2	10246	Unreliable
+	"1999"	"1999"	"83 years"	"83"	2	8959	Unreliable
+	"1999"	"1999"	"84 years"	"84"	10	7961	Unreliable
+	"1999"	"1999"	"85 years"	"85"	6	Not Applicable	Not Applicable
+	"1999"	"1999"	"86 years"	"86"	4	Not Applicable	Not Applicable
+	"1999"	"1999"	"87 years"	"87"	2	Not Applicable	Not Applicable
+	"1999"	"1999"	"88 years"	"88"	1	Not Applicable	Not Applicable
+	"1999"	"1999"	"89 years"	"89"	0	Not Applicable	Not Applicable
+	"1999"	"1999"	"90 years"	"90"	5	Not Applicable	Not Applicable
+	"1999"	"1999"	"91 years"	"91"	0	Not Applicable	Not Applicable
+	"1999"	"1999"	"92 years"	"92"	5	Not Applicable	Not Applicable
+	"1999"	"1999"	"93 years"	"93"	3	Not Applicable	Not Applicable
+	"1999"	"1999"	"94 years"	"94"	1	Not Applicable	Not Applicable
+	"1999"	"1999"	"95 years"	"95"	1	Not Applicable	Not Applicable
+	"1999"	"1999"	"96 years"	"96"	0	Not Applicable	Not Applicable
+	"1999"	"1999"	"97 years"	"97"	1	Not Applicable	Not Applicable
+	"1999"	"1999"	"98 years"	"98"	0	Not Applicable	Not Applicable
+	"1999"	"1999"	"99 years"	"99"	0	Not Applicable	Not Applicable
+	"1999"	"1999"	"100+ years"	"100"	0	Not Applicable	Not Applicable
+	"1999"	"1999"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"1999"	"1999"			583	5845369	10.0
+	"2000"	"2000"	"< 1 year"	"0"	0	80588	Unreliable
+	"2000"	"2000"	"1 year"	"1"	0	82376	Unreliable
+	"2000"	"2000"	"2 years"	"2"	0	83240	Unreliable
+	"2000"	"2000"	"3 years"	"3"	0	84838	Unreliable
+	"2000"	"2000"	"4 years"	"4"	0	85326	Unreliable
+	"2000"	"2000"	"5 years"	"5"	0	83040	Unreliable
+	"2000"	"2000"	"6 years"	"6"	0	81690	Unreliable
+	"2000"	"2000"	"7 years"	"7"	0	82618	Unreliable
+	"2000"	"2000"	"8 years"	"8"	0	81769	Unreliable
+	"2000"	"2000"	"9 years"	"9"	0	82732	Unreliable
+	"2000"	"2000"	"10 years"	"10"	0	82336	Unreliable
+	"2000"	"2000"	"11 years"	"11"	0	82218	Unreliable
+	"2000"	"2000"	"12 years"	"12"	0	80710	Unreliable
+	"2000"	"2000"	"13 years"	"13"	0	79205	Unreliable
+	"2000"	"2000"	"14 years"	"14"	0	80990	Unreliable
+	"2000"	"2000"	"15 years"	"15"	0	81795	Unreliable
+	"2000"	"2000"	"16 years"	"16"	0	83620	Unreliable
+	"2000"	"2000"	"17 years"	"17"	0	85727	Unreliable
+	"2000"	"2000"	"18 years"	"18"	0	90704	Unreliable
+	"2000"	"2000"	"19 years"	"19"	0	95173	Unreliable
+	"2000"	"2000"	"20 years"	"20"	0	94798	Unreliable
+	"2000"	"2000"	"21 years"	"21"	0	92925	Unreliable
+	"2000"	"2000"	"22 years"	"22"	0	92026	Unreliable
+	"2000"	"2000"	"23 years"	"23"	1	95802	Unreliable
+	"2000"	"2000"	"24 years"	"24"	0	101254	Unreliable
+	"2000"	"2000"	"25 years"	"25"	0	108280	Unreliable
+	"2000"	"2000"	"26 years"	"26"	0	108408	Unreliable
+	"2000"	"2000"	"27 years"	"27"	0	115354	Unreliable
+	"2000"	"2000"	"28 years"	"28"	1	116148	Unreliable
+	"2000"	"2000"	"29 years"	"29"	1	117621	Unreliable
+	"2000"	"2000"	"30 years"	"30"	2	119000	Unreliable
+	"2000"	"2000"	"31 years"	"31"	5	112237	Unreliable
+	"2000"	"2000"	"32 years"	"32"	1	108101	Unreliable
+	"2000"	"2000"	"33 years"	"33"	3	101556	Unreliable
+	"2000"	"2000"	"34 years"	"34"	4	105645	Unreliable
+	"2000"	"2000"	"35 years"	"35"	7	108951	Unreliable
+	"2000"	"2000"	"36 years"	"36"	5	108763	Unreliable
+	"2000"	"2000"	"37 years"	"37"	5	106633	Unreliable
+	"2000"	"2000"	"38 years"	"38"	13	99766	Unreliable
+	"2000"	"2000"	"39 years"	"39"	4	102722	Unreliable
+	"2000"	"2000"	"40 years"	"40"	4	104923	Unreliable
+	"2000"	"2000"	"41 years"	"41"	11	98779	Unreliable
+	"2000"	"2000"	"42 years"	"42"	11	98626	Unreliable
+	"2000"	"2000"	"43 years"	"43"	10	97156	Unreliable
+	"2000"	"2000"	"44 years"	"44"	13	97266	Unreliable
+	"2000"	"2000"	"45 years"	"45"	12	97641	Unreliable
+	"2000"	"2000"	"46 years"	"46"	11	89419	Unreliable
+	"2000"	"2000"	"47 years"	"47"	19	89654	Unreliable
+	"2000"	"2000"	"48 years"	"48"	27	82351	32.8
+	"2000"	"2000"	"49 years"	"49"	19	84791	Unreliable
+	"2000"	"2000"	"50 years"	"50"	16	87592	Unreliable
+	"2000"	"2000"	"51 years"	"51"	19	78875	Unreliable
+	"2000"	"2000"	"52 years"	"52"	21	74212	28.3
+	"2000"	"2000"	"53 years"	"53"	17	68889	Unreliable
+	"2000"	"2000"	"54 years"	"54"	20	58701	34.1
+	"2000"	"2000"	"55 years"	"55"	21	57357	36.6
+	"2000"	"2000"	"56 years"	"56"	18	52175	Unreliable
+	"2000"	"2000"	"57 years"	"57"	14	49887	Unreliable
+	"2000"	"2000"	"58 years"	"58"	10	46985	Unreliable
+	"2000"	"2000"	"59 years"	"59"	14	45274	Unreliable
+	"2000"	"2000"	"60 years"	"60"	15	44366	Unreliable
+	"2000"	"2000"	"61 years"	"61"	9	39779	Unreliable
+	"2000"	"2000"	"62 years"	"62"	12	39989	Unreliable
+	"2000"	"2000"	"63 years"	"63"	16	37485	Unreliable
+	"2000"	"2000"	"64 years"	"64"	12	37245	Unreliable
+	"2000"	"2000"	"65 years"	"65"	13	36472	Unreliable
+	"2000"	"2000"	"66 years"	"66"	11	33833	Unreliable
+	"2000"	"2000"	"67 years"	"67"	16	34104	Unreliable
+	"2000"	"2000"	"68 years"	"68"	13	30979	Unreliable
+	"2000"	"2000"	"69 years"	"69"	6	32164	Unreliable
+	"2000"	"2000"	"70 years"	"70"	12	31224	Unreliable
+	"2000"	"2000"	"71 years"	"71"	11	28501	Unreliable
+	"2000"	"2000"	"72 years"	"72"	6	27710	Unreliable
+	"2000"	"2000"	"73 years"	"73"	12	25685	Unreliable
+	"2000"	"2000"	"74 years"	"74"	6	24630	Unreliable
+	"2000"	"2000"	"75 years"	"75"	7	23048	Unreliable
+	"2000"	"2000"	"76 years"	"76"	3	20594	Unreliable
+	"2000"	"2000"	"77 years"	"77"	6	19262	Unreliable
+	"2000"	"2000"	"78 years"	"78"	10	17007	Unreliable
+	"2000"	"2000"	"79 years"	"79"	10	15969	Unreliable
+	"2000"	"2000"	"80 years"	"80"	4	14802	Unreliable
+	"2000"	"2000"	"81 years"	"81"	8	11873	Unreliable
+	"2000"	"2000"	"82 years"	"82"	0	10883	Unreliable
+	"2000"	"2000"	"83 years"	"83"	3	9686	Unreliable
+	"2000"	"2000"	"84 years"	"84"	6	8694	Unreliable
+	"2000"	"2000"	"85 years"	"85"	4	Not Applicable	Not Applicable
+	"2000"	"2000"	"86 years"	"86"	6	Not Applicable	Not Applicable
+	"2000"	"2000"	"87 years"	"87"	7	Not Applicable	Not Applicable
+	"2000"	"2000"	"88 years"	"88"	2	Not Applicable	Not Applicable
+	"2000"	"2000"	"89 years"	"89"	1	Not Applicable	Not Applicable
+	"2000"	"2000"	"90 years"	"90"	2	Not Applicable	Not Applicable
+	"2000"	"2000"	"91 years"	"91"	2	Not Applicable	Not Applicable
+	"2000"	"2000"	"92 years"	"92"	2	Not Applicable	Not Applicable
+	"2000"	"2000"	"93 years"	"93"	1	Not Applicable	Not Applicable
+	"2000"	"2000"	"94 years"	"94"	0	Not Applicable	Not Applicable
+	"2000"	"2000"	"95 years"	"95"	0	Not Applicable	Not Applicable
+	"2000"	"2000"	"96 years"	"96"	0	Not Applicable	Not Applicable
+	"2000"	"2000"	"97 years"	"97"	1	Not Applicable	Not Applicable
+	"2000"	"2000"	"98 years"	"98"	0	Not Applicable	Not Applicable
+	"2000"	"2000"	"99 years"	"99"	0	Not Applicable	Not Applicable
+	"2000"	"2000"	"100+ years"	"100"	0	Not Applicable	Not Applicable
+	"2000"	"2000"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2000"	"2000"			614	6044295	10.2
+	"2001"	"2001"	"< 1 year"	"0"	0	93860	Unreliable
+	"2001"	"2001"	"1 year"	"1"	0	87367	Unreliable
+	"2001"	"2001"	"2 years"	"2"	0	85505	Unreliable
+	"2001"	"2001"	"3 years"	"3"	0	85863	Unreliable
+	"2001"	"2001"	"4 years"	"4"	0	86947	Unreliable
+	"2001"	"2001"	"5 years"	"5"	0	88218	Unreliable
+	"2001"	"2001"	"6 years"	"6"	0	86115	Unreliable
+	"2001"	"2001"	"7 years"	"7"	0	84771	Unreliable
+	"2001"	"2001"	"8 years"	"8"	0	84691	Unreliable
+	"2001"	"2001"	"9 years"	"9"	0	84694	Unreliable
+	"2001"	"2001"	"10 years"	"10"	0	85489	Unreliable
+	"2001"	"2001"	"11 years"	"11"	0	86083	Unreliable
+	"2001"	"2001"	"12 years"	"12"	0	85388	Unreliable
+	"2001"	"2001"	"13 years"	"13"	0	84274	Unreliable
+	"2001"	"2001"	"14 years"	"14"	0	82630	Unreliable
+	"2001"	"2001"	"15 years"	"15"	0	84405	Unreliable
+	"2001"	"2001"	"16 years"	"16"	0	85749	Unreliable
+	"2001"	"2001"	"17 years"	"17"	0	87394	Unreliable
+	"2001"	"2001"	"18 years"	"18"	0	90991	Unreliable
+	"2001"	"2001"	"19 years"	"19"	0	96911	Unreliable
+	"2001"	"2001"	"20 years"	"20"	0	101767	Unreliable
+	"2001"	"2001"	"21 years"	"21"	0	103612	Unreliable
+	"2001"	"2001"	"22 years"	"22"	0	101935	Unreliable
+	"2001"	"2001"	"23 years"	"23"	0	101743	Unreliable
+	"2001"	"2001"	"24 years"	"24"	0	105347	Unreliable
+	"2001"	"2001"	"25 years"	"25"	0	110421	Unreliable
+	"2001"	"2001"	"26 years"	"26"	0	118080	Unreliable
+	"2001"	"2001"	"27 years"	"27"	0	118099	Unreliable
+	"2001"	"2001"	"28 years"	"28"	0	122175	Unreliable
+	"2001"	"2001"	"29 years"	"29"	0	123911	Unreliable
+	"2001"	"2001"	"30 years"	"30"	4	123207	Unreliable
+	"2001"	"2001"	"31 years"	"31"	2	125065	Unreliable
+	"2001"	"2001"	"32 years"	"32"	2	118311	Unreliable
+	"2001"	"2001"	"33 years"	"33"	2	114409	Unreliable
+	"2001"	"2001"	"34 years"	"34"	3	106584	Unreliable
+	"2001"	"2001"	"35 years"	"35"	5	108337	Unreliable
+	"2001"	"2001"	"36 years"	"36"	6	112313	Unreliable
+	"2001"	"2001"	"37 years"	"37"	5	112553	Unreliable
+	"2001"	"2001"	"38 years"	"38"	10	111728	Unreliable
+	"2001"	"2001"	"39 years"	"39"	6	104574	Unreliable
+	"2001"	"2001"	"40 years"	"40"	7	104238	Unreliable
+	"2001"	"2001"	"41 years"	"41"	10	109418	Unreliable
+	"2001"	"2001"	"42 years"	"42"	17	101622	Unreliable
+	"2001"	"2001"	"43 years"	"43"	13	101941	Unreliable
+	"2001"	"2001"	"44 years"	"44"	14	99568	Unreliable
+	"2001"	"2001"	"45 years"	"45"	20	99656	20.1
+	"2001"	"2001"	"46 years"	"46"	11	100214	Unreliable
+	"2001"	"2001"	"47 years"	"47"	17	93851	Unreliable
+	"2001"	"2001"	"48 years"	"48"	19	90768	Unreliable
+	"2001"	"2001"	"49 years"	"49"	17	86809	Unreliable
+	"2001"	"2001"	"50 years"	"50"	20	84489	23.7
+	"2001"	"2001"	"51 years"	"51"	15	90169	Unreliable
+	"2001"	"2001"	"52 years"	"52"	18	81795	Unreliable
+	"2001"	"2001"	"53 years"	"53"	31	77082	40.2
+	"2001"	"2001"	"54 years"	"54"	26	71769	36.2
+	"2001"	"2001"	"55 years"	"55"	17	61442	Unreliable
+	"2001"	"2001"	"56 years"	"56"	19	59172	Unreliable
+	"2001"	"2001"	"57 years"	"57"	18	54820	Unreliable
+	"2001"	"2001"	"58 years"	"58"	14	50978	Unreliable
+	"2001"	"2001"	"59 years"	"59"	21	49256	42.6
+	"2001"	"2001"	"60 years"	"60"	15	46426	Unreliable
+	"2001"	"2001"	"61 years"	"61"	18	45925	Unreliable
+	"2001"	"2001"	"62 years"	"62"	11	41543	Unreliable
+	"2001"	"2001"	"63 years"	"63"	11	40929	Unreliable
+	"2001"	"2001"	"64 years"	"64"	17	38763	Unreliable
+	"2001"	"2001"	"65 years"	"65"	14	37791	Unreliable
+	"2001"	"2001"	"66 years"	"66"	12	37325	Unreliable
+	"2001"	"2001"	"67 years"	"67"	8	34770	Unreliable
+	"2001"	"2001"	"68 years"	"68"	17	34669	Unreliable
+	"2001"	"2001"	"69 years"	"69"	9	32159	Unreliable
+	"2001"	"2001"	"70 years"	"70"	15	31610	Unreliable
+	"2001"	"2001"	"71 years"	"71"	15	31859	Unreliable
+	"2001"	"2001"	"72 years"	"72"	12	28898	Unreliable
+	"2001"	"2001"	"73 years"	"73"	4	27859	Unreliable
+	"2001"	"2001"	"74 years"	"74"	11	25788	Unreliable
+	"2001"	"2001"	"75 years"	"75"	12	24483	Unreliable
+	"2001"	"2001"	"76 years"	"76"	8	23033	Unreliable
+	"2001"	"2001"	"77 years"	"77"	7	20809	Unreliable
+	"2001"	"2001"	"78 years"	"78"	7	18981	Unreliable
+	"2001"	"2001"	"79 years"	"79"	7	17383	Unreliable
+	"2001"	"2001"	"80 years"	"80"	6	15367	Unreliable
+	"2001"	"2001"	"81 years"	"81"	7	14753	Unreliable
+	"2001"	"2001"	"82 years"	"82"	9	11861	Unreliable
+	"2001"	"2001"	"83 years"	"83"	6	10616	Unreliable
+	"2001"	"2001"	"84 years"	"84"	6	9391	Unreliable
+	"2001"	"2001"	"85 years"	"85"	8	Not Applicable	Not Applicable
+	"2001"	"2001"	"86 years"	"86"	4	Not Applicable	Not Applicable
+	"2001"	"2001"	"87 years"	"87"	7	Not Applicable	Not Applicable
+	"2001"	"2001"	"88 years"	"88"	4	Not Applicable	Not Applicable
+	"2001"	"2001"	"89 years"	"89"	1	Not Applicable	Not Applicable
+	"2001"	"2001"	"90 years"	"90"	2	Not Applicable	Not Applicable
+	"2001"	"2001"	"91 years"	"91"	1	Not Applicable	Not Applicable
+	"2001"	"2001"	"92 years"	"92"	3	Not Applicable	Not Applicable
+	"2001"	"2001"	"93 years"	"93"	0	Not Applicable	Not Applicable
+	"2001"	"2001"	"94 years"	"94"	0	Not Applicable	Not Applicable
+	"2001"	"2001"	"95 years"	"95"	0	Not Applicable	Not Applicable
+	"2001"	"2001"	"96 years"	"96"	0	Not Applicable	Not Applicable
+	"2001"	"2001"	"97 years"	"97"	0	Not Applicable	Not Applicable
+	"2001"	"2001"	"98 years"	"98"	0	Not Applicable	Not Applicable
+	"2001"	"2001"	"99 years"	"99"	0	Not Applicable	Not Applicable
+	"2001"	"2001"	"100+ years"	"100"	1	Not Applicable	Not Applicable
+	"2001"	"2001"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2001"	"2001"			684	6399700	10.7
+	"2002"	"2002"	"< 1 year"	"0"	0	93896	Unreliable
+	"2002"	"2002"	"1 year"	"1"	0	97327	Unreliable
+	"2002"	"2002"	"2 years"	"2"	0	90169	Unreliable
+	"2002"	"2002"	"3 years"	"3"	0	87645	Unreliable
+	"2002"	"2002"	"4 years"	"4"	0	87999	Unreliable
+	"2002"	"2002"	"5 years"	"5"	0	88982	Unreliable
+	"2002"	"2002"	"6 years"	"6"	0	90147	Unreliable
+	"2002"	"2002"	"7 years"	"7"	0	88179	Unreliable
+	"2002"	"2002"	"8 years"	"8"	0	86459	Unreliable
+	"2002"	"2002"	"9 years"	"9"	0	86889	Unreliable
+	"2002"	"2002"	"10 years"	"10"	0	87878	Unreliable
+	"2002"	"2002"	"11 years"	"11"	0	87573	Unreliable
+	"2002"	"2002"	"12 years"	"12"	0	88911	Unreliable
+	"2002"	"2002"	"13 years"	"13"	0	87930	Unreliable
+	"2002"	"2002"	"14 years"	"14"	0	86760	Unreliable
+	"2002"	"2002"	"15 years"	"15"	0	85531	Unreliable
+	"2002"	"2002"	"16 years"	"16"	0	87628	Unreliable
+	"2002"	"2002"	"17 years"	"17"	0	89141	Unreliable
+	"2002"	"2002"	"18 years"	"18"	0	92695	Unreliable
+	"2002"	"2002"	"19 years"	"19"	0	97713	Unreliable
+	"2002"	"2002"	"20 years"	"20"	0	103000	Unreliable
+	"2002"	"2002"	"21 years"	"21"	0	108617	Unreliable
+	"2002"	"2002"	"22 years"	"22"	0	110156	Unreliable
+	"2002"	"2002"	"23 years"	"23"	0	109559	Unreliable
+	"2002"	"2002"	"24 years"	"24"	1	110261	Unreliable
+	"2002"	"2002"	"25 years"	"25"	0	114650	Unreliable
+	"2002"	"2002"	"26 years"	"26"	0	118612	Unreliable
+	"2002"	"2002"	"27 years"	"27"	0	126127	Unreliable
+	"2002"	"2002"	"28 years"	"28"	0	124326	Unreliable
+	"2002"	"2002"	"29 years"	"29"	0	126860	Unreliable
+	"2002"	"2002"	"30 years"	"30"	1	129657	Unreliable
+	"2002"	"2002"	"31 years"	"31"	3	126588	Unreliable
+	"2002"	"2002"	"32 years"	"32"	2	129273	Unreliable
+	"2002"	"2002"	"33 years"	"33"	3	121972	Unreliable
+	"2002"	"2002"	"34 years"	"34"	1	117730	Unreliable
+	"2002"	"2002"	"35 years"	"35"	3	109798	Unreliable
+	"2002"	"2002"	"36 years"	"36"	4	111554	Unreliable
+	"2002"	"2002"	"37 years"	"37"	5	115319	Unreliable
+	"2002"	"2002"	"38 years"	"38"	6	115426	Unreliable
+	"2002"	"2002"	"39 years"	"39"	8	114611	Unreliable
+	"2002"	"2002"	"40 years"	"40"	12	107139	Unreliable
+	"2002"	"2002"	"41 years"	"41"	5	106546	Unreliable
+	"2002"	"2002"	"42 years"	"42"	12	111323	Unreliable
+	"2002"	"2002"	"43 years"	"43"	8	103736	Unreliable
+	"2002"	"2002"	"44 years"	"44"	13	103782	Unreliable
+	"2002"	"2002"	"45 years"	"45"	15	101450	Unreliable
+	"2002"	"2002"	"46 years"	"46"	16	101790	Unreliable
+	"2002"	"2002"	"47 years"	"47"	19	102064	Unreliable
+	"2002"	"2002"	"48 years"	"48"	16	95000	Unreliable
+	"2002"	"2002"	"49 years"	"49"	23	92277	24.9
+	"2002"	"2002"	"50 years"	"50"	21	88087	23.8
+	"2002"	"2002"	"51 years"	"51"	23	85884	26.8
+	"2002"	"2002"	"52 years"	"52"	15	91518	Unreliable
+	"2002"	"2002"	"53 years"	"53"	18	82961	Unreliable
+	"2002"	"2002"	"54 years"	"54"	30	78326	38.3
+	"2002"	"2002"	"55 years"	"55"	31	72839	42.6
+	"2002"	"2002"	"56 years"	"56"	16	62390	Unreliable
+	"2002"	"2002"	"57 years"	"57"	19	60043	Unreliable
+	"2002"	"2002"	"58 years"	"58"	13	55598	Unreliable
+	"2002"	"2002"	"59 years"	"59"	18	51701	Unreliable
+	"2002"	"2002"	"60 years"	"60"	17	49967	Unreliable
+	"2002"	"2002"	"61 years"	"61"	14	47236	Unreliable
+	"2002"	"2002"	"62 years"	"62"	20	46674	42.9
+	"2002"	"2002"	"63 years"	"63"	15	42232	Unreliable
+	"2002"	"2002"	"64 years"	"64"	12	41325	Unreliable
+	"2002"	"2002"	"65 years"	"65"	12	39394	Unreliable
+	"2002"	"2002"	"66 years"	"66"	15	38151	Unreliable
+	"2002"	"2002"	"67 years"	"67"	11	37755	Unreliable
+	"2002"	"2002"	"68 years"	"68"	12	35079	Unreliable
+	"2002"	"2002"	"69 years"	"69"	8	34805	Unreliable
+	"2002"	"2002"	"70 years"	"70"	8	32233	Unreliable
+	"2002"	"2002"	"71 years"	"71"	24	31599	76.0
+	"2002"	"2002"	"72 years"	"72"	20	31708	63.1
+	"2002"	"2002"	"73 years"	"73"	11	28805	Unreliable
+	"2002"	"2002"	"74 years"	"74"	8	27529	Unreliable
+	"2002"	"2002"	"75 years"	"75"	9	25397	Unreliable
+	"2002"	"2002"	"76 years"	"76"	12	24172	Unreliable
+	"2002"	"2002"	"77 years"	"77"	11	22601	Unreliable
+	"2002"	"2002"	"78 years"	"78"	8	20432	Unreliable
+	"2002"	"2002"	"79 years"	"79"	5	18505	Unreliable
+	"2002"	"2002"	"80 years"	"80"	6	16866	Unreliable
+	"2002"	"2002"	"81 years"	"81"	9	14845	Unreliable
+	"2002"	"2002"	"82 years"	"82"	10	14155	Unreliable
+	"2002"	"2002"	"83 years"	"83"	8	11364	Unreliable
+	"2002"	"2002"	"84 years"	"84"	10	10032	Unreliable
+	"2002"	"2002"	"85 years"	"85"	5	Not Applicable	Not Applicable
+	"2002"	"2002"	"86 years"	"86"	6	Not Applicable	Not Applicable
+	"2002"	"2002"	"87 years"	"87"	3	Not Applicable	Not Applicable
+	"2002"	"2002"	"88 years"	"88"	2	Not Applicable	Not Applicable
+	"2002"	"2002"	"89 years"	"89"	4	Not Applicable	Not Applicable
+	"2002"	"2002"	"90 years"	"90"	5	Not Applicable	Not Applicable
+	"2002"	"2002"	"91 years"	"91"	2	Not Applicable	Not Applicable
+	"2002"	"2002"	"92 years"	"92"	0	Not Applicable	Not Applicable
+	"2002"	"2002"	"93 years"	"93"	2	Not Applicable	Not Applicable
+	"2002"	"2002"	"94 years"	"94"	5	Not Applicable	Not Applicable
+	"2002"	"2002"	"95 years"	"95"	1	Not Applicable	Not Applicable
+	"2002"	"2002"	"96 years"	"96"	0	Not Applicable	Not Applicable
+	"2002"	"2002"	"97 years"	"97"	1	Not Applicable	Not Applicable
+	"2002"	"2002"	"98 years"	"98"	0	Not Applicable	Not Applicable
+	"2002"	"2002"	"99 years"	"99"	0	Not Applicable	Not Applicable
+	"2002"	"2002"	"100+ years"	"100"	1	Not Applicable	Not Applicable
+	"2002"	"2002"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2002"	"2002"			712	6681015	10.7
+	"2003"	"2003"	"< 1 year"	"0"	0	98859	Unreliable
+	"2003"	"2003"	"1 year"	"1"	0	96774	Unreliable
+	"2003"	"2003"	"2 years"	"2"	0	99782	Unreliable
+	"2003"	"2003"	"3 years"	"3"	0	92258	Unreliable
+	"2003"	"2003"	"4 years"	"4"	0	89801	Unreliable
+	"2003"	"2003"	"5 years"	"5"	0	89971	Unreliable
+	"2003"	"2003"	"6 years"	"6"	0	90740	Unreliable
+	"2003"	"2003"	"7 years"	"7"	0	92101	Unreliable
+	"2003"	"2003"	"8 years"	"8"	0	89598	Unreliable
+	"2003"	"2003"	"9 years"	"9"	0	88626	Unreliable
+	"2003"	"2003"	"10 years"	"10"	0	90468	Unreliable
+	"2003"	"2003"	"11 years"	"11"	0	89543	Unreliable
+	"2003"	"2003"	"12 years"	"12"	0	90405	Unreliable
+	"2003"	"2003"	"13 years"	"13"	0	91279	Unreliable
+	"2003"	"2003"	"14 years"	"14"	0	90264	Unreliable
+	"2003"	"2003"	"15 years"	"15"	0	89674	Unreliable
+	"2003"	"2003"	"16 years"	"16"	0	88683	Unreliable
+	"2003"	"2003"	"17 years"	"17"	0	90886	Unreliable
+	"2003"	"2003"	"18 years"	"18"	0	94911	Unreliable
+	"2003"	"2003"	"19 years"	"19"	0	99548	Unreliable
+	"2003"	"2003"	"20 years"	"20"	0	103384	Unreliable
+	"2003"	"2003"	"21 years"	"21"	0	109110	Unreliable
+	"2003"	"2003"	"22 years"	"22"	0	114371	Unreliable
+	"2003"	"2003"	"23 years"	"23"	0	117214	Unreliable
+	"2003"	"2003"	"24 years"	"24"	0	117616	Unreliable
+	"2003"	"2003"	"25 years"	"25"	0	119311	Unreliable
+	"2003"	"2003"	"26 years"	"26"	0	122157	Unreliable
+	"2003"	"2003"	"27 years"	"27"	1	126292	Unreliable
+	"2003"	"2003"	"28 years"	"28"	1	131529	Unreliable
+	"2003"	"2003"	"29 years"	"29"	0	127988	Unreliable
+	"2003"	"2003"	"30 years"	"30"	3	132650	Unreliable
+	"2003"	"2003"	"31 years"	"31"	1	132110	Unreliable
+	"2003"	"2003"	"32 years"	"32"	1	130604	Unreliable
+	"2003"	"2003"	"33 years"	"33"	7	132633	Unreliable
+	"2003"	"2003"	"34 years"	"34"	1	125028	Unreliable
+	"2003"	"2003"	"35 years"	"35"	2	120811	Unreliable
+	"2003"	"2003"	"36 years"	"36"	4	112891	Unreliable
+	"2003"	"2003"	"37 years"	"37"	6	114303	Unreliable
+	"2003"	"2003"	"38 years"	"38"	11	118025	Unreliable
+	"2003"	"2003"	"39 years"	"39"	5	118211	Unreliable
+	"2003"	"2003"	"40 years"	"40"	6	117017	Unreliable
+	"2003"	"2003"	"41 years"	"41"	8	109299	Unreliable
+	"2003"	"2003"	"42 years"	"42"	11	108165	Unreliable
+	"2003"	"2003"	"43 years"	"43"	13	113429	Unreliable
+	"2003"	"2003"	"44 years"	"44"	20	105386	19.0
+	"2003"	"2003"	"45 years"	"45"	8	105641	Unreliable
+	"2003"	"2003"	"46 years"	"46"	26	103751	25.1
+	"2003"	"2003"	"47 years"	"47"	18	103628	Unreliable
+	"2003"	"2003"	"48 years"	"48"	12	102922	Unreliable
+	"2003"	"2003"	"49 years"	"49"	14	96621	Unreliable
+	"2003"	"2003"	"50 years"	"50"	17	93509	Unreliable
+	"2003"	"2003"	"51 years"	"51"	21	89552	23.5
+	"2003"	"2003"	"52 years"	"52"	25	87185	28.7
+	"2003"	"2003"	"53 years"	"53"	26	92662	28.1
+	"2003"	"2003"	"54 years"	"54"	24	84270	28.5
+	"2003"	"2003"	"55 years"	"55"	18	79420	Unreliable
+	"2003"	"2003"	"56 years"	"56"	14	73802	Unreliable
+	"2003"	"2003"	"57 years"	"57"	30	63104	47.5
+	"2003"	"2003"	"58 years"	"58"	19	60775	Unreliable
+	"2003"	"2003"	"59 years"	"59"	17	56271	Unreliable
+	"2003"	"2003"	"60 years"	"60"	19	52311	Unreliable
+	"2003"	"2003"	"61 years"	"61"	27	50802	53.1
+	"2003"	"2003"	"62 years"	"62"	22	47975	45.9
+	"2003"	"2003"	"63 years"	"63"	11	47362	Unreliable
+	"2003"	"2003"	"64 years"	"64"	14	42531	Unreliable
+	"2003"	"2003"	"65 years"	"65"	12	42005	Unreliable
+	"2003"	"2003"	"66 years"	"66"	25	39678	63.0
+	"2003"	"2003"	"67 years"	"67"	19	38586	Unreliable
+	"2003"	"2003"	"68 years"	"68"	12	38044	Unreliable
+	"2003"	"2003"	"69 years"	"69"	10	35167	Unreliable
+	"2003"	"2003"	"70 years"	"70"	11	34826	Unreliable
+	"2003"	"2003"	"71 years"	"71"	17	32214	Unreliable
+	"2003"	"2003"	"72 years"	"72"	10	31438	Unreliable
+	"2003"	"2003"	"73 years"	"73"	15	31579	Unreliable
+	"2003"	"2003"	"74 years"	"74"	12	28426	Unreliable
+	"2003"	"2003"	"75 years"	"75"	8	27049	Unreliable
+	"2003"	"2003"	"76 years"	"76"	9	25114	Unreliable
+	"2003"	"2003"	"77 years"	"77"	14	23683	Unreliable
+	"2003"	"2003"	"78 years"	"78"	6	22194	Unreliable
+	"2003"	"2003"	"79 years"	"79"	14	19914	Unreliable
+	"2003"	"2003"	"80 years"	"80"	6	17921	Unreliable
+	"2003"	"2003"	"81 years"	"81"	6	16314	Unreliable
+	"2003"	"2003"	"82 years"	"82"	6	14227	Unreliable
+	"2003"	"2003"	"83 years"	"83"	4	13584	Unreliable
+	"2003"	"2003"	"84 years"	"84"	8	10753	Unreliable
+	"2003"	"2003"	"85 years"	"85"	5	Not Applicable	Not Applicable
+	"2003"	"2003"	"86 years"	"86"	5	Not Applicable	Not Applicable
+	"2003"	"2003"	"87 years"	"87"	3	Not Applicable	Not Applicable
+	"2003"	"2003"	"88 years"	"88"	5	Not Applicable	Not Applicable
+	"2003"	"2003"	"89 years"	"89"	3	Not Applicable	Not Applicable
+	"2003"	"2003"	"90 years"	"90"	3	Not Applicable	Not Applicable
+	"2003"	"2003"	"91 years"	"91"	6	Not Applicable	Not Applicable
+	"2003"	"2003"	"92 years"	"92"	1	Not Applicable	Not Applicable
+	"2003"	"2003"	"93 years"	"93"	0	Not Applicable	Not Applicable
+	"2003"	"2003"	"94 years"	"94"	3	Not Applicable	Not Applicable
+	"2003"	"2003"	"95 years"	"95"	1	Not Applicable	Not Applicable
+	"2003"	"2003"	"96 years"	"96"	0	Not Applicable	Not Applicable
+	"2003"	"2003"	"97 years"	"97"	1	Not Applicable	Not Applicable
+	"2003"	"2003"	"98 years"	"98"	1	Not Applicable	Not Applicable
+	"2003"	"2003"	"99 years"	"99"	0	Not Applicable	Not Applicable
+	"2003"	"2003"	"100+ years"	"100"	1	Not Applicable	Not Applicable
+	"2003"	"2003"	"Not Stated"	"NS"	1	Not Applicable	Not Applicable
+"Total"	"2003"	"2003"			746	6954880	10.7
+	"2004"	"2004"	"< 1 year"	"0"	0	102119	Unreliable
+	"2004"	"2004"	"1 year"	"1"	0	101169	Unreliable
+	"2004"	"2004"	"2 years"	"2"	0	99082	Unreliable
+	"2004"	"2004"	"3 years"	"3"	0	101927	Unreliable
+	"2004"	"2004"	"4 years"	"4"	0	94511	Unreliable
+	"2004"	"2004"	"5 years"	"5"	0	91821	Unreliable
+	"2004"	"2004"	"6 years"	"6"	0	91699	Unreliable
+	"2004"	"2004"	"7 years"	"7"	0	92725	Unreliable
+	"2004"	"2004"	"8 years"	"8"	0	93360	Unreliable
+	"2004"	"2004"	"9 years"	"9"	0	91857	Unreliable
+	"2004"	"2004"	"10 years"	"10"	0	92647	Unreliable
+	"2004"	"2004"	"11 years"	"11"	0	91807	Unreliable
+	"2004"	"2004"	"12 years"	"12"	0	92455	Unreliable
+	"2004"	"2004"	"13 years"	"13"	0	92633	Unreliable
+	"2004"	"2004"	"14 years"	"14"	0	93485	Unreliable
+	"2004"	"2004"	"15 years"	"15"	0	93217	Unreliable
+	"2004"	"2004"	"16 years"	"16"	0	92908	Unreliable
+	"2004"	"2004"	"17 years"	"17"	0	91855	Unreliable
+	"2004"	"2004"	"18 years"	"18"	0	97211	Unreliable
+	"2004"	"2004"	"19 years"	"19"	0	102157	Unreliable
+	"2004"	"2004"	"20 years"	"20"	0	105144	Unreliable
+	"2004"	"2004"	"21 years"	"21"	0	109203	Unreliable
+	"2004"	"2004"	"22 years"	"22"	0	114281	Unreliable
+	"2004"	"2004"	"23 years"	"23"	1	121115	Unreliable
+	"2004"	"2004"	"24 years"	"24"	0	125077	Unreliable
+	"2004"	"2004"	"25 years"	"25"	0	126802	Unreliable
+	"2004"	"2004"	"26 years"	"26"	0	126360	Unreliable
+	"2004"	"2004"	"27 years"	"27"	0	129680	Unreliable
+	"2004"	"2004"	"28 years"	"28"	1	130961	Unreliable
+	"2004"	"2004"	"29 years"	"29"	2	134187	Unreliable
+	"2004"	"2004"	"30 years"	"30"	0	133978	Unreliable
+	"2004"	"2004"	"31 years"	"31"	3	134283	Unreliable
+	"2004"	"2004"	"32 years"	"32"	3	136141	Unreliable
+	"2004"	"2004"	"33 years"	"33"	2	133877	Unreliable
+	"2004"	"2004"	"34 years"	"34"	3	135534	Unreliable
+	"2004"	"2004"	"35 years"	"35"	3	128047	Unreliable
+	"2004"	"2004"	"36 years"	"36"	5	123977	Unreliable
+	"2004"	"2004"	"37 years"	"37"	5	115569	Unreliable
+	"2004"	"2004"	"38 years"	"38"	7	116916	Unreliable
+	"2004"	"2004"	"39 years"	"39"	4	120781	Unreliable
+	"2004"	"2004"	"40 years"	"40"	11	120568	Unreliable
+	"2004"	"2004"	"41 years"	"41"	13	119045	Unreliable
+	"2004"	"2004"	"42 years"	"42"	11	110662	Unreliable
+	"2004"	"2004"	"43 years"	"43"	10	110205	Unreliable
+	"2004"	"2004"	"44 years"	"44"	18	115045	Unreliable
+	"2004"	"2004"	"45 years"	"45"	10	107239	Unreliable
+	"2004"	"2004"	"46 years"	"46"	21	108182	19.4
+	"2004"	"2004"	"47 years"	"47"	17	105568	Unreliable
+	"2004"	"2004"	"48 years"	"48"	17	104145	Unreliable
+	"2004"	"2004"	"49 years"	"49"	19	104711	Unreliable
+	"2004"	"2004"	"50 years"	"50"	19	97810	Unreliable
+	"2004"	"2004"	"51 years"	"51"	14	95152	Unreliable
+	"2004"	"2004"	"52 years"	"52"	32	90922	35.2
+	"2004"	"2004"	"53 years"	"53"	24	88263	27.2
+	"2004"	"2004"	"54 years"	"54"	37	94076	39.3
+	"2004"	"2004"	"55 years"	"55"	18	85356	Unreliable
+	"2004"	"2004"	"56 years"	"56"	27	80381	33.6
+	"2004"	"2004"	"57 years"	"57"	26	74509	34.9
+	"2004"	"2004"	"58 years"	"58"	18	63854	Unreliable
+	"2004"	"2004"	"59 years"	"59"	19	61396	Unreliable
+	"2004"	"2004"	"60 years"	"60"	18	56836	Unreliable
+	"2004"	"2004"	"61 years"	"61"	20	53184	37.6
+	"2004"	"2004"	"62 years"	"62"	16	51528	Unreliable
+	"2004"	"2004"	"63 years"	"63"	17	48633	Unreliable
+	"2004"	"2004"	"64 years"	"64"	20	47538	42.1
+	"2004"	"2004"	"65 years"	"65"	12	43304	Unreliable
+	"2004"	"2004"	"66 years"	"66"	23	42134	54.6
+	"2004"	"2004"	"67 years"	"67"	15	40081	Unreliable
+	"2004"	"2004"	"68 years"	"68"	17	38867	Unreliable
+	"2004"	"2004"	"69 years"	"69"	11	38051	Unreliable
+	"2004"	"2004"	"70 years"	"70"	12	35156	Unreliable
+	"2004"	"2004"	"71 years"	"71"	20	34785	57.5
+	"2004"	"2004"	"72 years"	"72"	4	32009	Unreliable
+	"2004"	"2004"	"73 years"	"73"	13	31303	Unreliable
+	"2004"	"2004"	"74 years"	"74"	13	31082	Unreliable
+	"2004"	"2004"	"75 years"	"75"	10	27855	Unreliable
+	"2004"	"2004"	"76 years"	"76"	12	26788	Unreliable
+	"2004"	"2004"	"77 years"	"77"	11	24557	Unreliable
+	"2004"	"2004"	"78 years"	"78"	15	23266	Unreliable
+	"2004"	"2004"	"79 years"	"79"	10	21600	Unreliable
+	"2004"	"2004"	"80 years"	"80"	7	19248	Unreliable
+	"2004"	"2004"	"81 years"	"81"	6	17334	Unreliable
+	"2004"	"2004"	"82 years"	"82"	5	15580	Unreliable
+	"2004"	"2004"	"83 years"	"83"	4	13653	Unreliable
+	"2004"	"2004"	"84 years"	"84"	7	12826	Unreliable
+	"2004"	"2004"	"85 years"	"85"	6	Not Applicable	Not Applicable
+	"2004"	"2004"	"86 years"	"86"	7	Not Applicable	Not Applicable
+	"2004"	"2004"	"87 years"	"87"	6	Not Applicable	Not Applicable
+	"2004"	"2004"	"88 years"	"88"	7	Not Applicable	Not Applicable
+	"2004"	"2004"	"89 years"	"89"	8	Not Applicable	Not Applicable
+	"2004"	"2004"	"90 years"	"90"	0	Not Applicable	Not Applicable
+	"2004"	"2004"	"91 years"	"91"	3	Not Applicable	Not Applicable
+	"2004"	"2004"	"92 years"	"92"	3	Not Applicable	Not Applicable
+	"2004"	"2004"	"93 years"	"93"	1	Not Applicable	Not Applicable
+	"2004"	"2004"	"94 years"	"94"	1	Not Applicable	Not Applicable
+	"2004"	"2004"	"95 years"	"95"	1	Not Applicable	Not Applicable
+	"2004"	"2004"	"96 years"	"96"	2	Not Applicable	Not Applicable
+	"2004"	"2004"	"97 years"	"97"	1	Not Applicable	Not Applicable
+	"2004"	"2004"	"98 years"	"98"	1	Not Applicable	Not Applicable
+	"2004"	"2004"	"99 years"	"99"	1	Not Applicable	Not Applicable
+	"2004"	"2004"	"100+ years"	"100"	0	Not Applicable	Not Applicable
+	"2004"	"2004"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2004"	"2004"			786	7225506	10.9
+	"2005"	"2005"	"< 1 year"	"0"	0	104342	Unreliable
+	"2005"	"2005"	"1 year"	"1"	0	104415	Unreliable
+	"2005"	"2005"	"2 years"	"2"	0	103699	Unreliable
+	"2005"	"2005"	"3 years"	"3"	0	101505	Unreliable
+	"2005"	"2005"	"4 years"	"4"	0	104546	Unreliable
+	"2005"	"2005"	"5 years"	"5"	0	96779	Unreliable
+	"2005"	"2005"	"6 years"	"6"	0	93682	Unreliable
+	"2005"	"2005"	"7 years"	"7"	0	93805	Unreliable
+	"2005"	"2005"	"8 years"	"8"	0	93902	Unreliable
+	"2005"	"2005"	"9 years"	"9"	0	95871	Unreliable
+	"2005"	"2005"	"10 years"	"10"	0	96605	Unreliable
+	"2005"	"2005"	"11 years"	"11"	0	93819	Unreliable
+	"2005"	"2005"	"12 years"	"12"	0	94988	Unreliable
+	"2005"	"2005"	"13 years"	"13"	0	94715	Unreliable
+	"2005"	"2005"	"14 years"	"14"	0	94847	Unreliable
+	"2005"	"2005"	"15 years"	"15"	0	96654	Unreliable
+	"2005"	"2005"	"16 years"	"16"	0	96732	Unreliable
+	"2005"	"2005"	"17 years"	"17"	0	96249	Unreliable
+	"2005"	"2005"	"18 years"	"18"	0	99012	Unreliable
+	"2005"	"2005"	"19 years"	"19"	0	105141	Unreliable
+	"2005"	"2005"	"20 years"	"20"	0	107990	Unreliable
+	"2005"	"2005"	"21 years"	"21"	0	111195	Unreliable
+	"2005"	"2005"	"22 years"	"22"	0	114208	Unreliable
+	"2005"	"2005"	"23 years"	"23"	0	121197	Unreliable
+	"2005"	"2005"	"24 years"	"24"	0	129393	Unreliable
+	"2005"	"2005"	"25 years"	"25"	1	135148	Unreliable
+	"2005"	"2005"	"26 years"	"26"	1	134154	Unreliable
+	"2005"	"2005"	"27 years"	"27"	0	134473	Unreliable
+	"2005"	"2005"	"28 years"	"28"	0	134277	Unreliable
+	"2005"	"2005"	"29 years"	"29"	0	133337	Unreliable
+	"2005"	"2005"	"30 years"	"30"	3	141011	Unreliable
+	"2005"	"2005"	"31 years"	"31"	2	135179	Unreliable
+	"2005"	"2005"	"32 years"	"32"	2	138786	Unreliable
+	"2005"	"2005"	"33 years"	"33"	2	139585	Unreliable
+	"2005"	"2005"	"34 years"	"34"	2	136907	Unreliable
+	"2005"	"2005"	"35 years"	"35"	5	138880	Unreliable
+	"2005"	"2005"	"36 years"	"36"	6	131598	Unreliable
+	"2005"	"2005"	"37 years"	"37"	6	126910	Unreliable
+	"2005"	"2005"	"38 years"	"38"	9	118326	Unreliable
+	"2005"	"2005"	"39 years"	"39"	4	119940	Unreliable
+	"2005"	"2005"	"40 years"	"40"	14	123274	Unreliable
+	"2005"	"2005"	"41 years"	"41"	6	122725	Unreliable
+	"2005"	"2005"	"42 years"	"42"	6	120432	Unreliable
+	"2005"	"2005"	"43 years"	"43"	13	112907	Unreliable
+	"2005"	"2005"	"44 years"	"44"	13	111892	Unreliable
+	"2005"	"2005"	"45 years"	"45"	15	117210	Unreliable
+	"2005"	"2005"	"46 years"	"46"	18	110168	Unreliable
+	"2005"	"2005"	"47 years"	"47"	20	110130	18.2
+	"2005"	"2005"	"48 years"	"48"	11	105913	Unreliable
+	"2005"	"2005"	"49 years"	"49"	18	106157	Unreliable
+	"2005"	"2005"	"50 years"	"50"	23	106024	21.7
+	"2005"	"2005"	"51 years"	"51"	20	99718	20.1
+	"2005"	"2005"	"52 years"	"52"	19	96651	Unreliable
+	"2005"	"2005"	"53 years"	"53"	21	92106	22.8
+	"2005"	"2005"	"54 years"	"54"	23	89734	25.6
+	"2005"	"2005"	"55 years"	"55"	19	95236	Unreliable
+	"2005"	"2005"	"56 years"	"56"	19	86389	Unreliable
+	"2005"	"2005"	"57 years"	"57"	19	81015	Unreliable
+	"2005"	"2005"	"58 years"	"58"	22	75294	29.2
+	"2005"	"2005"	"59 years"	"59"	24	64482	37.2
+	"2005"	"2005"	"60 years"	"60"	32	62026	51.6
+	"2005"	"2005"	"61 years"	"61"	29	57816	50.2
+	"2005"	"2005"	"62 years"	"62"	24	54039	44.4
+	"2005"	"2005"	"63 years"	"63"	28	52294	53.5
+	"2005"	"2005"	"64 years"	"64"	14	48733	Unreliable
+	"2005"	"2005"	"65 years"	"65"	18	48489	Unreliable
+	"2005"	"2005"	"66 years"	"66"	13	43463	Unreliable
+	"2005"	"2005"	"67 years"	"67"	11	42647	Unreliable
+	"2005"	"2005"	"68 years"	"68"	11	40446	Unreliable
+	"2005"	"2005"	"69 years"	"69"	5	38859	Unreliable
+	"2005"	"2005"	"70 years"	"70"	10	38079	Unreliable
+	"2005"	"2005"	"71 years"	"71"	10	35139	Unreliable
+	"2005"	"2005"	"72 years"	"72"	11	34557	Unreliable
+	"2005"	"2005"	"73 years"	"73"	20	31894	62.7
+	"2005"	"2005"	"74 years"	"74"	13	30801	Unreliable
+	"2005"	"2005"	"75 years"	"75"	16	30403	Unreliable
+	"2005"	"2005"	"76 years"	"76"	16	27681	Unreliable
+	"2005"	"2005"	"77 years"	"77"	11	26182	Unreliable
+	"2005"	"2005"	"78 years"	"78"	12	24184	Unreliable
+	"2005"	"2005"	"79 years"	"79"	15	22664	Unreliable
+	"2005"	"2005"	"80 years"	"80"	9	20886	Unreliable
+	"2005"	"2005"	"81 years"	"81"	15	18654	Unreliable
+	"2005"	"2005"	"82 years"	"82"	7	16519	Unreliable
+	"2005"	"2005"	"83 years"	"83"	10	15000	Unreliable
+	"2005"	"2005"	"84 years"	"84"	5	12889	Unreliable
+	"2005"	"2005"	"85 years"	"85"	6	Not Applicable	Not Applicable
+	"2005"	"2005"	"86 years"	"86"	10	Not Applicable	Not Applicable
+	"2005"	"2005"	"87 years"	"87"	5	Not Applicable	Not Applicable
+	"2005"	"2005"	"88 years"	"88"	6	Not Applicable	Not Applicable
+	"2005"	"2005"	"89 years"	"89"	3	Not Applicable	Not Applicable
+	"2005"	"2005"	"90 years"	"90"	4	Not Applicable	Not Applicable
+	"2005"	"2005"	"91 years"	"91"	1	Not Applicable	Not Applicable
+	"2005"	"2005"	"92 years"	"92"	1	Not Applicable	Not Applicable
+	"2005"	"2005"	"93 years"	"93"	2	Not Applicable	Not Applicable
+	"2005"	"2005"	"94 years"	"94"	2	Not Applicable	Not Applicable
+	"2005"	"2005"	"95 years"	"95"	0	Not Applicable	Not Applicable
+	"2005"	"2005"	"96 years"	"96"	0	Not Applicable	Not Applicable
+	"2005"	"2005"	"97 years"	"97"	0	Not Applicable	Not Applicable
+	"2005"	"2005"	"98 years"	"98"	1	Not Applicable	Not Applicable
+	"2005"	"2005"	"99 years"	"99"	0	Not Applicable	Not Applicable
+	"2005"	"2005"	"100+ years"	"100"	4	Not Applicable	Not Applicable
+	"2005"	"2005"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2005"	"2005"			796	7510126	10.6
+	"2006"	"2006"	"< 1 year"	"0"	0	104986	Unreliable
+	"2006"	"2006"	"1 year"	"1"	0	106336	Unreliable
+	"2006"	"2006"	"2 years"	"2"	0	107077	Unreliable
+	"2006"	"2006"	"3 years"	"3"	0	106445	Unreliable
+	"2006"	"2006"	"4 years"	"4"	0	104432	Unreliable
+	"2006"	"2006"	"5 years"	"5"	0	107183	Unreliable
+	"2006"	"2006"	"6 years"	"6"	0	98781	Unreliable
+	"2006"	"2006"	"7 years"	"7"	0	95893	Unreliable
+	"2006"	"2006"	"8 years"	"8"	0	94939	Unreliable
+	"2006"	"2006"	"9 years"	"9"	0	96598	Unreliable
+	"2006"	"2006"	"10 years"	"10"	0	101392	Unreliable
+	"2006"	"2006"	"11 years"	"11"	0	97539	Unreliable
+	"2006"	"2006"	"12 years"	"12"	0	97208	Unreliable
+	"2006"	"2006"	"13 years"	"13"	0	97304	Unreliable
+	"2006"	"2006"	"14 years"	"14"	0	97012	Unreliable
+	"2006"	"2006"	"15 years"	"15"	0	98316	Unreliable
+	"2006"	"2006"	"16 years"	"16"	0	100522	Unreliable
+	"2006"	"2006"	"17 years"	"17"	0	100188	Unreliable
+	"2006"	"2006"	"18 years"	"18"	0	104260	Unreliable
+	"2006"	"2006"	"19 years"	"19"	0	107558	Unreliable
+	"2006"	"2006"	"20 years"	"20"	0	111240	Unreliable
+	"2006"	"2006"	"21 years"	"21"	0	114238	Unreliable
+	"2006"	"2006"	"22 years"	"22"	0	115994	Unreliable
+	"2006"	"2006"	"23 years"	"23"	1	121117	Unreliable
+	"2006"	"2006"	"24 years"	"24"	0	129570	Unreliable
+	"2006"	"2006"	"25 years"	"25"	1	139965	Unreliable
+	"2006"	"2006"	"26 years"	"26"	0	142357	Unreliable
+	"2006"	"2006"	"27 years"	"27"	1	142453	Unreliable
+	"2006"	"2006"	"28 years"	"28"	2	138550	Unreliable
+	"2006"	"2006"	"29 years"	"29"	0	135845	Unreliable
+	"2006"	"2006"	"30 years"	"30"	1	140452	Unreliable
+	"2006"	"2006"	"31 years"	"31"	1	141395	Unreliable
+	"2006"	"2006"	"32 years"	"32"	3	139848	Unreliable
+	"2006"	"2006"	"33 years"	"33"	2	142153	Unreliable
+	"2006"	"2006"	"34 years"	"34"	1	142586	Unreliable
+	"2006"	"2006"	"35 years"	"35"	1	140368	Unreliable
+	"2006"	"2006"	"36 years"	"36"	4	142677	Unreliable
+	"2006"	"2006"	"37 years"	"37"	3	134525	Unreliable
+	"2006"	"2006"	"38 years"	"38"	8	129774	Unreliable
+	"2006"	"2006"	"39 years"	"39"	9	121372	Unreliable
+	"2006"	"2006"	"40 years"	"40"	4	122358	Unreliable
+	"2006"	"2006"	"41 years"	"41"	8	125430	Unreliable
+	"2006"	"2006"	"42 years"	"42"	8	123932	Unreliable
+	"2006"	"2006"	"43 years"	"43"	13	122818	Unreliable
+	"2006"	"2006"	"44 years"	"44"	9	114637	Unreliable
+	"2006"	"2006"	"45 years"	"45"	15	114050	Unreliable
+	"2006"	"2006"	"46 years"	"46"	14	120562	Unreliable
+	"2006"	"2006"	"47 years"	"47"	16	112181	Unreliable
+	"2006"	"2006"	"48 years"	"48"	20	110215	18.1
+	"2006"	"2006"	"49 years"	"49"	16	108064	Unreliable
+	"2006"	"2006"	"50 years"	"50"	21	107507	19.5
+	"2006"	"2006"	"51 years"	"51"	28	108187	25.9
+	"2006"	"2006"	"52 years"	"52"	25	101283	24.7
+	"2006"	"2006"	"53 years"	"53"	25	97841	25.6
+	"2006"	"2006"	"54 years"	"54"	26	93644	27.8
+	"2006"	"2006"	"55 years"	"55"	19	90904	Unreliable
+	"2006"	"2006"	"56 years"	"56"	33	96390	34.2
+	"2006"	"2006"	"57 years"	"57"	28	86981	32.2
+	"2006"	"2006"	"58 years"	"58"	33	81865	40.3
+	"2006"	"2006"	"59 years"	"59"	19	75914	Unreliable
+	"2006"	"2006"	"60 years"	"60"	24	65071	36.9
+	"2006"	"2006"	"61 years"	"61"	16	63096	Unreliable
+	"2006"	"2006"	"62 years"	"62"	18	58721	Unreliable
+	"2006"	"2006"	"63 years"	"63"	27	54823	49.2
+	"2006"	"2006"	"64 years"	"64"	15	52202	Unreliable
+	"2006"	"2006"	"65 years"	"65"	12	49749	Unreliable
+	"2006"	"2006"	"66 years"	"66"	15	48510	Unreliable
+	"2006"	"2006"	"67 years"	"67"	20	43972	45.5
+	"2006"	"2006"	"68 years"	"68"	10	43002	Unreliable
+	"2006"	"2006"	"69 years"	"69"	20	40342	49.6
+	"2006"	"2006"	"70 years"	"70"	19	38868	Unreliable
+	"2006"	"2006"	"71 years"	"71"	9	38058	Unreliable
+	"2006"	"2006"	"72 years"	"72"	19	34879	Unreliable
+	"2006"	"2006"	"73 years"	"73"	17	34462	Unreliable
+	"2006"	"2006"	"74 years"	"74"	15	31356	Unreliable
+	"2006"	"2006"	"75 years"	"75"	18	30081	Unreliable
+	"2006"	"2006"	"76 years"	"76"	10	30271	Unreliable
+	"2006"	"2006"	"77 years"	"77"	12	27023	Unreliable
+	"2006"	"2006"	"78 years"	"78"	11	25794	Unreliable
+	"2006"	"2006"	"79 years"	"79"	12	23539	Unreliable
+	"2006"	"2006"	"80 years"	"80"	8	21868	Unreliable
+	"2006"	"2006"	"81 years"	"81"	7	20214	Unreliable
+	"2006"	"2006"	"82 years"	"82"	7	17747	Unreliable
+	"2006"	"2006"	"83 years"	"83"	8	15931	Unreliable
+	"2006"	"2006"	"84 years"	"84"	7	14159	Unreliable
+	"2006"	"2006"	"85 years"	"85"	7	Not Applicable	Not Applicable
+	"2006"	"2006"	"86 years"	"86"	5	Not Applicable	Not Applicable
+	"2006"	"2006"	"87 years"	"87"	7	Not Applicable	Not Applicable
+	"2006"	"2006"	"88 years"	"88"	4	Not Applicable	Not Applicable
+	"2006"	"2006"	"89 years"	"89"	10	Not Applicable	Not Applicable
+	"2006"	"2006"	"90 years"	"90"	1	Not Applicable	Not Applicable
+	"2006"	"2006"	"91 years"	"91"	7	Not Applicable	Not Applicable
+	"2006"	"2006"	"92 years"	"92"	1	Not Applicable	Not Applicable
+	"2006"	"2006"	"93 years"	"93"	3	Not Applicable	Not Applicable
+	"2006"	"2006"	"94 years"	"94"	3	Not Applicable	Not Applicable
+	"2006"	"2006"	"95 years"	"95"	0	Not Applicable	Not Applicable
+	"2006"	"2006"	"96 years"	"96"	4	Not Applicable	Not Applicable
+	"2006"	"2006"	"97 years"	"97"	2	Not Applicable	Not Applicable
+	"2006"	"2006"	"98 years"	"98"	1	Not Applicable	Not Applicable
+	"2006"	"2006"	"99 years"	"99"	0	Not Applicable	Not Applicable
+	"2006"	"2006"	"100+ years"	"100"	0	Not Applicable	Not Applicable
+	"2006"	"2006"	"Not Stated"	"NS"	1	Not Applicable	Not Applicable
+"Total"	"2006"	"2006"			830	7798682	10.6
+	"2007"	"2007"	"< 1 year"	"0"	0	109998	Unreliable
+	"2007"	"2007"	"1 year"	"1"	0	106432	Unreliable
+	"2007"	"2007"	"2 years"	"2"	0	108931	Unreliable
+	"2007"	"2007"	"3 years"	"3"	0	110025	Unreliable
+	"2007"	"2007"	"4 years"	"4"	0	109593	Unreliable
+	"2007"	"2007"	"5 years"	"5"	0	107178	Unreliable
+	"2007"	"2007"	"6 years"	"6"	0	109217	Unreliable
+	"2007"	"2007"	"7 years"	"7"	0	101226	Unreliable
+	"2007"	"2007"	"8 years"	"8"	0	96921	Unreliable
+	"2007"	"2007"	"9 years"	"9"	0	97727	Unreliable
+	"2007"	"2007"	"10 years"	"10"	0	102709	Unreliable
+	"2007"	"2007"	"11 years"	"11"	0	101993	Unreliable
+	"2007"	"2007"	"12 years"	"12"	0	101139	Unreliable
+	"2007"	"2007"	"13 years"	"13"	0	99486	Unreliable
+	"2007"	"2007"	"14 years"	"14"	0	99475	Unreliable
+	"2007"	"2007"	"15 years"	"15"	0	100595	Unreliable
+	"2007"	"2007"	"16 years"	"16"	0	102236	Unreliable
+	"2007"	"2007"	"17 years"	"17"	0	103953	Unreliable
+	"2007"	"2007"	"18 years"	"18"	0	109022	Unreliable
+	"2007"	"2007"	"19 years"	"19"	0	113419	Unreliable
+	"2007"	"2007"	"20 years"	"20"	0	113713	Unreliable
+	"2007"	"2007"	"21 years"	"21"	0	117502	Unreliable
+	"2007"	"2007"	"22 years"	"22"	0	118473	Unreliable
+	"2007"	"2007"	"23 years"	"23"	1	122496	Unreliable
+	"2007"	"2007"	"24 years"	"24"	0	129148	Unreliable
+	"2007"	"2007"	"25 years"	"25"	0	140061	Unreliable
+	"2007"	"2007"	"26 years"	"26"	1	146436	Unreliable
+	"2007"	"2007"	"27 years"	"27"	0	150439	Unreliable
+	"2007"	"2007"	"28 years"	"28"	0	145525	Unreliable
+	"2007"	"2007"	"29 years"	"29"	0	138915	Unreliable
+	"2007"	"2007"	"30 years"	"30"	3	143094	Unreliable
+	"2007"	"2007"	"31 years"	"31"	4	139925	Unreliable
+	"2007"	"2007"	"32 years"	"32"	2	145944	Unreliable
+	"2007"	"2007"	"33 years"	"33"	3	142911	Unreliable
+	"2007"	"2007"	"34 years"	"34"	3	144930	Unreliable
+	"2007"	"2007"	"35 years"	"35"	2	145926	Unreliable
+	"2007"	"2007"	"36 years"	"36"	5	144099	Unreliable
+	"2007"	"2007"	"37 years"	"37"	2	145463	Unreliable
+	"2007"	"2007"	"38 years"	"38"	10	137303	Unreliable
+	"2007"	"2007"	"39 years"	"39"	7	132830	Unreliable
+	"2007"	"2007"	"40 years"	"40"	9	123612	Unreliable
+	"2007"	"2007"	"41 years"	"41"	7	124340	Unreliable
+	"2007"	"2007"	"42 years"	"42"	7	126299	Unreliable
+	"2007"	"2007"	"43 years"	"43"	14	126353	Unreliable
+	"2007"	"2007"	"44 years"	"44"	13	124466	Unreliable
+	"2007"	"2007"	"45 years"	"45"	11	116763	Unreliable
+	"2007"	"2007"	"46 years"	"46"	18	117553	Unreliable
+	"2007"	"2007"	"47 years"	"47"	15	122576	Unreliable
+	"2007"	"2007"	"48 years"	"48"	19	111927	Unreliable
+	"2007"	"2007"	"49 years"	"49"	14	112505	Unreliable
+	"2007"	"2007"	"50 years"	"50"	17	109382	Unreliable
+	"2007"	"2007"	"51 years"	"51"	14	109729	Unreliable
+	"2007"	"2007"	"52 years"	"52"	19	109769	Unreliable
+	"2007"	"2007"	"53 years"	"53"	18	102407	Unreliable
+	"2007"	"2007"	"54 years"	"54"	21	99460	21.1
+	"2007"	"2007"	"55 years"	"55"	17	94724	Unreliable
+	"2007"	"2007"	"56 years"	"56"	17	91949	Unreliable
+	"2007"	"2007"	"57 years"	"57"	23	96943	23.7
+	"2007"	"2007"	"58 years"	"58"	25	87777	28.5
+	"2007"	"2007"	"59 years"	"59"	25	82374	30.3
+	"2007"	"2007"	"60 years"	"60"	16	76423	Unreliable
+	"2007"	"2007"	"61 years"	"61"	23	66177	34.8
+	"2007"	"2007"	"62 years"	"62"	22	64029	34.4
+	"2007"	"2007"	"63 years"	"63"	26	59550	43.7
+	"2007"	"2007"	"64 years"	"64"	20	54577	36.6
+	"2007"	"2007"	"65 years"	"65"	10	53332	Unreliable
+	"2007"	"2007"	"66 years"	"66"	16	49649	Unreliable
+	"2007"	"2007"	"67 years"	"67"	19	49019	Unreliable
+	"2007"	"2007"	"68 years"	"68"	16	44309	Unreliable
+	"2007"	"2007"	"69 years"	"69"	13	42832	Unreliable
+	"2007"	"2007"	"70 years"	"70"	16	40317	Unreliable
+	"2007"	"2007"	"71 years"	"71"	16	38840	Unreliable
+	"2007"	"2007"	"72 years"	"72"	9	37710	Unreliable
+	"2007"	"2007"	"73 years"	"73"	16	34786	Unreliable
+	"2007"	"2007"	"74 years"	"74"	17	33764	Unreliable
+	"2007"	"2007"	"75 years"	"75"	16	30520	Unreliable
+	"2007"	"2007"	"76 years"	"76"	16	30001	Unreliable
+	"2007"	"2007"	"77 years"	"77"	17	29498	Unreliable
+	"2007"	"2007"	"78 years"	"78"	6	26636	Unreliable
+	"2007"	"2007"	"79 years"	"79"	13	25085	Unreliable
+	"2007"	"2007"	"80 years"	"80"	12	22666	Unreliable
+	"2007"	"2007"	"81 years"	"81"	12	21161	Unreliable
+	"2007"	"2007"	"82 years"	"82"	14	19174	Unreliable
+	"2007"	"2007"	"83 years"	"83"	6	17122	Unreliable
+	"2007"	"2007"	"84 years"	"84"	8	14987	Unreliable
+	"2007"	"2007"	"85 years"	"85"	6	Not Applicable	Not Applicable
+	"2007"	"2007"	"86 years"	"86"	7	Not Applicable	Not Applicable
+	"2007"	"2007"	"87 years"	"87"	3	Not Applicable	Not Applicable
+	"2007"	"2007"	"88 years"	"88"	4	Not Applicable	Not Applicable
+	"2007"	"2007"	"89 years"	"89"	4	Not Applicable	Not Applicable
+	"2007"	"2007"	"90 years"	"90"	5	Not Applicable	Not Applicable
+	"2007"	"2007"	"91 years"	"91"	6	Not Applicable	Not Applicable
+	"2007"	"2007"	"92 years"	"92"	1	Not Applicable	Not Applicable
+	"2007"	"2007"	"93 years"	"93"	3	Not Applicable	Not Applicable
+	"2007"	"2007"	"94 years"	"94"	2	Not Applicable	Not Applicable
+	"2007"	"2007"	"95 years"	"95"	2	Not Applicable	Not Applicable
+	"2007"	"2007"	"96 years"	"96"	1	Not Applicable	Not Applicable
+	"2007"	"2007"	"97 years"	"97"	0	Not Applicable	Not Applicable
+	"2007"	"2007"	"98 years"	"98"	0	Not Applicable	Not Applicable
+	"2007"	"2007"	"99 years"	"99"	0	Not Applicable	Not Applicable
+	"2007"	"2007"	"100+ years"	"100"	2	Not Applicable	Not Applicable
+	"2007"	"2007"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2007"	"2007"			787	8084884	9.7
+	"2008"	"2008"	"< 1 year"	"0"	0	114493	Unreliable
+	"2008"	"2008"	"1 year"	"1"	0	110911	Unreliable
+	"2008"	"2008"	"2 years"	"2"	0	108956	Unreliable
+	"2008"	"2008"	"3 years"	"3"	0	112052	Unreliable
+	"2008"	"2008"	"4 years"	"4"	0	113490	Unreliable
+	"2008"	"2008"	"5 years"	"5"	0	112601	Unreliable
+	"2008"	"2008"	"6 years"	"6"	0	109306	Unreliable
+	"2008"	"2008"	"7 years"	"7"	0	111830	Unreliable
+	"2008"	"2008"	"8 years"	"8"	0	102129	Unreliable
+	"2008"	"2008"	"9 years"	"9"	0	99945	Unreliable
+	"2008"	"2008"	"10 years"	"10"	0	104512	Unreliable
+	"2008"	"2008"	"11 years"	"11"	0	103059	Unreliable
+	"2008"	"2008"	"12 years"	"12"	0	105857	Unreliable
+	"2008"	"2008"	"13 years"	"13"	0	103382	Unreliable
+	"2008"	"2008"	"14 years"	"14"	0	101594	Unreliable
+	"2008"	"2008"	"15 years"	"15"	0	103237	Unreliable
+	"2008"	"2008"	"16 years"	"16"	0	104666	Unreliable
+	"2008"	"2008"	"17 years"	"17"	0	105706	Unreliable
+	"2008"	"2008"	"18 years"	"18"	0	113590	Unreliable
+	"2008"	"2008"	"19 years"	"19"	0	118739	Unreliable
+	"2008"	"2008"	"20 years"	"20"	1	119875	Unreliable
+	"2008"	"2008"	"21 years"	"21"	0	119977	Unreliable
+	"2008"	"2008"	"22 years"	"22"	0	121276	Unreliable
+	"2008"	"2008"	"23 years"	"23"	0	124822	Unreliable
+	"2008"	"2008"	"24 years"	"24"	0	130402	Unreliable
+	"2008"	"2008"	"25 years"	"25"	0	139650	Unreliable
+	"2008"	"2008"	"26 years"	"26"	0	146030	Unreliable
+	"2008"	"2008"	"27 years"	"27"	0	154412	Unreliable
+	"2008"	"2008"	"28 years"	"28"	1	152657	Unreliable
+	"2008"	"2008"	"29 years"	"29"	0	144777	Unreliable
+	"2008"	"2008"	"30 years"	"30"	0	146504	Unreliable
+	"2008"	"2008"	"31 years"	"31"	4	141698	Unreliable
+	"2008"	"2008"	"32 years"	"32"	0	144474	Unreliable
+	"2008"	"2008"	"33 years"	"33"	1	148824	Unreliable
+	"2008"	"2008"	"34 years"	"34"	2	145515	Unreliable
+	"2008"	"2008"	"35 years"	"35"	3	148242	Unreliable
+	"2008"	"2008"	"36 years"	"36"	5	149790	Unreliable
+	"2008"	"2008"	"37 years"	"37"	5	146829	Unreliable
+	"2008"	"2008"	"38 years"	"38"	7	148271	Unreliable
+	"2008"	"2008"	"39 years"	"39"	10	140432	Unreliable
+	"2008"	"2008"	"40 years"	"40"	8	135021	Unreliable
+	"2008"	"2008"	"41 years"	"41"	13	125465	Unreliable
+	"2008"	"2008"	"42 years"	"42"	5	125007	Unreliable
+	"2008"	"2008"	"43 years"	"43"	14	128773	Unreliable
+	"2008"	"2008"	"44 years"	"44"	15	127928	Unreliable
+	"2008"	"2008"	"45 years"	"45"	4	126701	Unreliable
+	"2008"	"2008"	"46 years"	"46"	15	120526	Unreliable
+	"2008"	"2008"	"47 years"	"47"	19	119526	Unreliable
+	"2008"	"2008"	"48 years"	"48"	19	121917	Unreliable
+	"2008"	"2008"	"49 years"	"49"	10	114341	Unreliable
+	"2008"	"2008"	"50 years"	"50"	23	113786	20.2
+	"2008"	"2008"	"51 years"	"51"	20	111722	17.9
+	"2008"	"2008"	"52 years"	"52"	15	111385	Unreliable
+	"2008"	"2008"	"53 years"	"53"	24	110916	21.6
+	"2008"	"2008"	"54 years"	"54"	27	104133	25.9
+	"2008"	"2008"	"55 years"	"55"	29	100539	28.8
+	"2008"	"2008"	"56 years"	"56"	29	95808	30.3
+	"2008"	"2008"	"57 years"	"57"	25	92435	27.0
+	"2008"	"2008"	"58 years"	"58"	16	97715	Unreliable
+	"2008"	"2008"	"59 years"	"59"	25	88216	28.3
+	"2008"	"2008"	"60 years"	"60"	25	82804	30.2
+	"2008"	"2008"	"61 years"	"61"	24	77732	30.9
+	"2008"	"2008"	"62 years"	"62"	22	67163	32.8
+	"2008"	"2008"	"63 years"	"63"	30	64933	46.2
+	"2008"	"2008"	"64 years"	"64"	16	59110	Unreliable
+	"2008"	"2008"	"65 years"	"65"	22	55788	39.4
+	"2008"	"2008"	"66 years"	"66"	25	53093	47.1
+	"2008"	"2008"	"67 years"	"67"	18	50161	Unreliable
+	"2008"	"2008"	"68 years"	"68"	20	49412	40.5
+	"2008"	"2008"	"69 years"	"69"	19	44073	Unreliable
+	"2008"	"2008"	"70 years"	"70"	20	42783	46.7
+	"2008"	"2008"	"71 years"	"71"	7	40307	Unreliable
+	"2008"	"2008"	"72 years"	"72"	17	38456	Unreliable
+	"2008"	"2008"	"73 years"	"73"	15	37596	Unreliable
+	"2008"	"2008"	"74 years"	"74"	13	34033	Unreliable
+	"2008"	"2008"	"75 years"	"75"	9	32807	Unreliable
+	"2008"	"2008"	"76 years"	"76"	14	30509	Unreliable
+	"2008"	"2008"	"77 years"	"77"	20	29206	68.5
+	"2008"	"2008"	"78 years"	"78"	25	29126	85.8
+	"2008"	"2008"	"79 years"	"79"	7	25891	Unreliable
+	"2008"	"2008"	"80 years"	"80"	11	24143	Unreliable
+	"2008"	"2008"	"81 years"	"81"	12	21969	Unreliable
+	"2008"	"2008"	"82 years"	"82"	11	20061	Unreliable
+	"2008"	"2008"	"83 years"	"83"	13	18533	Unreliable
+	"2008"	"2008"	"84 years"	"84"	8	16097	Unreliable
+	"2008"	"2008"	"85 years"	"85"	9	Not Applicable	Not Applicable
+	"2008"	"2008"	"86 years"	"86"	6	Not Applicable	Not Applicable
+	"2008"	"2008"	"87 years"	"87"	3	Not Applicable	Not Applicable
+	"2008"	"2008"	"88 years"	"88"	3	Not Applicable	Not Applicable
+	"2008"	"2008"	"89 years"	"89"	5	Not Applicable	Not Applicable
+	"2008"	"2008"	"90 years"	"90"	3	Not Applicable	Not Applicable
+	"2008"	"2008"	"91 years"	"91"	5	Not Applicable	Not Applicable
+	"2008"	"2008"	"92 years"	"92"	5	Not Applicable	Not Applicable
+	"2008"	"2008"	"93 years"	"93"	2	Not Applicable	Not Applicable
+	"2008"	"2008"	"94 years"	"94"	0	Not Applicable	Not Applicable
+	"2008"	"2008"	"95 years"	"95"	0	Not Applicable	Not Applicable
+	"2008"	"2008"	"96 years"	"96"	2	Not Applicable	Not Applicable
+	"2008"	"2008"	"97 years"	"97"	2	Not Applicable	Not Applicable
+	"2008"	"2008"	"98 years"	"98"	0	Not Applicable	Not Applicable
+	"2008"	"2008"	"99 years"	"99"	0	Not Applicable	Not Applicable
+	"2008"	"2008"	"100+ years"	"100"	1	Not Applicable	Not Applicable
+	"2008"	"2008"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2008"	"2008"			863	8373542	10.3
+	"2009"	"2009"	"< 1 year"	"0"	0	110795	Unreliable
+	"2009"	"2009"	"1 year"	"1"	0	114660	Unreliable
+	"2009"	"2009"	"2 years"	"2"	0	113297	Unreliable
+	"2009"	"2009"	"3 years"	"3"	0	112252	Unreliable
+	"2009"	"2009"	"4 years"	"4"	0	115725	Unreliable
+	"2009"	"2009"	"5 years"	"5"	0	116615	Unreliable
+	"2009"	"2009"	"6 years"	"6"	0	114854	Unreliable
+	"2009"	"2009"	"7 years"	"7"	0	112023	Unreliable
+	"2009"	"2009"	"8 years"	"8"	0	112472	Unreliable
+	"2009"	"2009"	"9 years"	"9"	0	105359	Unreliable
+	"2009"	"2009"	"10 years"	"10"	0	107417	Unreliable
+	"2009"	"2009"	"11 years"	"11"	0	104548	Unreliable
+	"2009"	"2009"	"12 years"	"12"	0	107103	Unreliable
+	"2009"	"2009"	"13 years"	"13"	0	108038	Unreliable
+	"2009"	"2009"	"14 years"	"14"	0	105467	Unreliable
+	"2009"	"2009"	"15 years"	"15"	0	105499	Unreliable
+	"2009"	"2009"	"16 years"	"16"	0	107414	Unreliable
+	"2009"	"2009"	"17 years"	"17"	0	108096	Unreliable
+	"2009"	"2009"	"18 years"	"18"	0	116064	Unreliable
+	"2009"	"2009"	"19 years"	"19"	0	123857	Unreliable
+	"2009"	"2009"	"20 years"	"20"	0	125353	Unreliable
+	"2009"	"2009"	"21 years"	"21"	0	126229	Unreliable
+	"2009"	"2009"	"22 years"	"22"	0	123182	Unreliable
+	"2009"	"2009"	"23 years"	"23"	0	127268	Unreliable
+	"2009"	"2009"	"24 years"	"24"	0	132378	Unreliable
+	"2009"	"2009"	"25 years"	"25"	0	140810	Unreliable
+	"2009"	"2009"	"26 years"	"26"	1	144875	Unreliable
+	"2009"	"2009"	"27 years"	"27"	0	153634	Unreliable
+	"2009"	"2009"	"28 years"	"28"	0	155584	Unreliable
+	"2009"	"2009"	"29 years"	"29"	2	150510	Unreliable
+	"2009"	"2009"	"30 years"	"30"	1	152620	Unreliable
+	"2009"	"2009"	"31 years"	"31"	2	144022	Unreliable
+	"2009"	"2009"	"32 years"	"32"	2	146064	Unreliable
+	"2009"	"2009"	"33 years"	"33"	1	147101	Unreliable
+	"2009"	"2009"	"34 years"	"34"	3	151247	Unreliable
+	"2009"	"2009"	"35 years"	"35"	2	148758	Unreliable
+	"2009"	"2009"	"36 years"	"36"	4	152096	Unreliable
+	"2009"	"2009"	"37 years"	"37"	4	152325	Unreliable
+	"2009"	"2009"	"38 years"	"38"	7	149517	Unreliable
+	"2009"	"2009"	"39 years"	"39"	9	151450	Unreliable
+	"2009"	"2009"	"40 years"	"40"	7	142482	Unreliable
+	"2009"	"2009"	"41 years"	"41"	7	136754	Unreliable
+	"2009"	"2009"	"42 years"	"42"	14	125834	Unreliable
+	"2009"	"2009"	"43 years"	"43"	7	127369	Unreliable
+	"2009"	"2009"	"44 years"	"44"	15	130247	Unreliable
+	"2009"	"2009"	"45 years"	"45"	7	130193	Unreliable
+	"2009"	"2009"	"46 years"	"46"	13	130883	Unreliable
+	"2009"	"2009"	"47 years"	"47"	14	122454	Unreliable
+	"2009"	"2009"	"48 years"	"48"	14	118517	Unreliable
+	"2009"	"2009"	"49 years"	"49"	18	124578	Unreliable
+	"2009"	"2009"	"50 years"	"50"	24	115496	20.8
+	"2009"	"2009"	"51 years"	"51"	17	116274	Unreliable
+	"2009"	"2009"	"52 years"	"52"	24	113391	21.2
+	"2009"	"2009"	"53 years"	"53"	27	112433	24.0
+	"2009"	"2009"	"54 years"	"54"	27	112705	24.0
+	"2009"	"2009"	"55 years"	"55"	18	105140	Unreliable
+	"2009"	"2009"	"56 years"	"56"	21	101581	20.7
+	"2009"	"2009"	"57 years"	"57"	36	96126	37.5
+	"2009"	"2009"	"58 years"	"58"	30	93087	32.2
+	"2009"	"2009"	"59 years"	"59"	21	98047	21.4
+	"2009"	"2009"	"60 years"	"60"	29	88508	32.8
+	"2009"	"2009"	"61 years"	"61"	28	84175	33.3
+	"2009"	"2009"	"62 years"	"62"	22	78817	27.9
+	"2009"	"2009"	"63 years"	"63"	25	68065	36.7
+	"2009"	"2009"	"64 years"	"64"	23	64285	35.8
+	"2009"	"2009"	"65 years"	"65"	13	60503	Unreliable
+	"2009"	"2009"	"66 years"	"66"	19	55384	Unreliable
+	"2009"	"2009"	"67 years"	"67"	17	53600	Unreliable
+	"2009"	"2009"	"68 years"	"68"	25	50532	49.5
+	"2009"	"2009"	"69 years"	"69"	16	48996	Unreliable
+	"2009"	"2009"	"70 years"	"70"	19	43984	Unreliable
+	"2009"	"2009"	"71 years"	"71"	11	42803	Unreliable
+	"2009"	"2009"	"72 years"	"72"	21	39851	52.7
+	"2009"	"2009"	"73 years"	"73"	13	38382	Unreliable
+	"2009"	"2009"	"74 years"	"74"	9	36720	Unreliable
+	"2009"	"2009"	"75 years"	"75"	12	32982	Unreliable
+	"2009"	"2009"	"76 years"	"76"	20	32847	60.9
+	"2009"	"2009"	"77 years"	"77"	14	29669	Unreliable
+	"2009"	"2009"	"78 years"	"78"	8	28863	Unreliable
+	"2009"	"2009"	"79 years"	"79"	10	28298	Unreliable
+	"2009"	"2009"	"80 years"	"80"	14	24875	Unreliable
+	"2009"	"2009"	"81 years"	"81"	10	23428	Unreliable
+	"2009"	"2009"	"82 years"	"82"	10	20776	Unreliable
+	"2009"	"2009"	"83 years"	"83"	16	19415	Unreliable
+	"2009"	"2009"	"84 years"	"84"	6	17436	Unreliable
+	"2009"	"2009"	"85 years"	"85"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"86 years"	"86"	10	Not Applicable	Not Applicable
+	"2009"	"2009"	"87 years"	"87"	6	Not Applicable	Not Applicable
+	"2009"	"2009"	"88 years"	"88"	5	Not Applicable	Not Applicable
+	"2009"	"2009"	"89 years"	"89"	4	Not Applicable	Not Applicable
+	"2009"	"2009"	"90 years"	"90"	3	Not Applicable	Not Applicable
+	"2009"	"2009"	"91 years"	"91"	6	Not Applicable	Not Applicable
+	"2009"	"2009"	"92 years"	"92"	3	Not Applicable	Not Applicable
+	"2009"	"2009"	"93 years"	"93"	2	Not Applicable	Not Applicable
+	"2009"	"2009"	"94 years"	"94"	4	Not Applicable	Not Applicable
+	"2009"	"2009"	"95 years"	"95"	1	Not Applicable	Not Applicable
+	"2009"	"2009"	"96 years"	"96"	0	Not Applicable	Not Applicable
+	"2009"	"2009"	"97 years"	"97"	3	Not Applicable	Not Applicable
+	"2009"	"2009"	"98 years"	"98"	1	Not Applicable	Not Applicable
+	"2009"	"2009"	"99 years"	"99"	1	Not Applicable	Not Applicable
+	"2009"	"2009"	"100+ years"	"100"	5	Not Applicable	Not Applicable
+	"2009"	"2009"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2009"	"2009"			873	8651166	10.1
+	"2010"	"2010"	"< 1 year"	"0"	0	109711	Unreliable
+	"2010"	"2010"	"1 year"	"1"	0	111116	Unreliable
+	"2010"	"2010"	"2 years"	"2"	0	117119	Unreliable
+	"2010"	"2010"	"3 years"	"3"	0	116202	Unreliable
+	"2010"	"2010"	"4 years"	"4"	0	115391	Unreliable
+	"2010"	"2010"	"5 years"	"5"	0	119276	Unreliable
+	"2010"	"2010"	"6 years"	"6"	0	118046	Unreliable
+	"2010"	"2010"	"7 years"	"7"	0	116363	Unreliable
+	"2010"	"2010"	"8 years"	"8"	0	111406	Unreliable
+	"2010"	"2010"	"9 years"	"9"	0	116116	Unreliable
+	"2010"	"2010"	"10 years"	"10"	0	110357	Unreliable
+	"2010"	"2010"	"11 years"	"11"	0	106721	Unreliable
+	"2010"	"2010"	"12 years"	"12"	0	108062	Unreliable
+	"2010"	"2010"	"13 years"	"13"	0	109052	Unreliable
+	"2010"	"2010"	"14 years"	"14"	0	109090	Unreliable
+	"2010"	"2010"	"15 years"	"15"	0	108413	Unreliable
+	"2010"	"2010"	"16 years"	"16"	0	108718	Unreliable
+	"2010"	"2010"	"17 years"	"17"	0	110647	Unreliable
+	"2010"	"2010"	"18 years"	"18"	0	118049	Unreliable
+	"2010"	"2010"	"19 years"	"19"	0	126493	Unreliable
+	"2010"	"2010"	"20 years"	"20"	0	128970	Unreliable
+	"2010"	"2010"	"21 years"	"21"	0	131335	Unreliable
+	"2010"	"2010"	"22 years"	"22"	0	127813	Unreliable
+	"2010"	"2010"	"23 years"	"23"	0	128019	Unreliable
+	"2010"	"2010"	"24 years"	"24"	0	134213	Unreliable
+	"2010"	"2010"	"25 years"	"25"	1	142137	Unreliable
+	"2010"	"2010"	"26 years"	"26"	0	145482	Unreliable
+	"2010"	"2010"	"27 years"	"27"	0	151951	Unreliable
+	"2010"	"2010"	"28 years"	"28"	0	154722	Unreliable
+	"2010"	"2010"	"29 years"	"29"	1	152872	Unreliable
+	"2010"	"2010"	"30 years"	"30"	3	157447	Unreliable
+	"2010"	"2010"	"31 years"	"31"	0	147890	Unreliable
+	"2010"	"2010"	"32 years"	"32"	2	147324	Unreliable
+	"2010"	"2010"	"33 years"	"33"	2	148419	Unreliable
+	"2010"	"2010"	"34 years"	"34"	5	150068	Unreliable
+	"2010"	"2010"	"35 years"	"35"	1	153944	Unreliable
+	"2010"	"2010"	"36 years"	"36"	2	151348	Unreliable
+	"2010"	"2010"	"37 years"	"37"	5	154947	Unreliable
+	"2010"	"2010"	"38 years"	"38"	6	152923	Unreliable
+	"2010"	"2010"	"39 years"	"39"	9	152731	Unreliable
+	"2010"	"2010"	"40 years"	"40"	9	151497	Unreliable
+	"2010"	"2010"	"41 years"	"41"	13	142049	Unreliable
+	"2010"	"2010"	"42 years"	"42"	8	134250	Unreliable
+	"2010"	"2010"	"43 years"	"43"	14	126717	Unreliable
+	"2010"	"2010"	"44 years"	"44"	11	129525	Unreliable
+	"2010"	"2010"	"45 years"	"45"	18	132413	Unreliable
+	"2010"	"2010"	"46 years"	"46"	19	133921	Unreliable
+	"2010"	"2010"	"47 years"	"47"	14	130520	Unreliable
+	"2010"	"2010"	"48 years"	"48"	22	119083	18.5
+	"2010"	"2010"	"49 years"	"49"	19	122537	Unreliable
+	"2010"	"2010"	"50 years"	"50"	21	123641	17.0
+	"2010"	"2010"	"51 years"	"51"	22	117303	18.8
+	"2010"	"2010"	"52 years"	"52"	23	116595	19.7
+	"2010"	"2010"	"53 years"	"53"	24	113769	21.1
+	"2010"	"2010"	"54 years"	"54"	26	113662	22.9
+	"2010"	"2010"	"55 years"	"55"	21	113069	18.6
+	"2010"	"2010"	"56 years"	"56"	29	103430	28.0
+	"2010"	"2010"	"57 years"	"57"	23	102183	22.5
+	"2010"	"2010"	"58 years"	"58"	30	93535	32.1
+	"2010"	"2010"	"59 years"	"59"	22	95030	23.2
+	"2010"	"2010"	"60 years"	"60"	25	96956	25.8
+	"2010"	"2010"	"61 years"	"61"	29	88308	32.8
+	"2010"	"2010"	"62 years"	"62"	22	83639	26.3
+	"2010"	"2010"	"63 years"	"63"	30	78116	38.4
+	"2010"	"2010"	"64 years"	"64"	30	65526	45.8
+	"2010"	"2010"	"65 years"	"65"	21	64969	32.3
+	"2010"	"2010"	"66 years"	"66"	24	58178	41.3
+	"2010"	"2010"	"67 years"	"67"	22	55712	39.5
+	"2010"	"2010"	"68 years"	"68"	16	52517	Unreliable
+	"2010"	"2010"	"69 years"	"69"	16	49637	Unreliable
+	"2010"	"2010"	"70 years"	"70"	20	48159	41.5
+	"2010"	"2010"	"71 years"	"71"	17	43029	Unreliable
+	"2010"	"2010"	"72 years"	"72"	19	42077	Unreliable
+	"2010"	"2010"	"73 years"	"73"	11	39088	Unreliable
+	"2010"	"2010"	"74 years"	"74"	20	37436	53.4
+	"2010"	"2010"	"75 years"	"75"	19	35136	Unreliable
+	"2010"	"2010"	"76 years"	"76"	8	32617	Unreliable
+	"2010"	"2010"	"77 years"	"77"	16	31715	Unreliable
+	"2010"	"2010"	"78 years"	"78"	8	28500	Unreliable
+	"2010"	"2010"	"79 years"	"79"	13	28591	Unreliable
+	"2010"	"2010"	"80 years"	"80"	22	26684	82.4
+	"2010"	"2010"	"81 years"	"81"	16	23719	Unreliable
+	"2010"	"2010"	"82 years"	"82"	15	21948	Unreliable
+	"2010"	"2010"	"83 years"	"83"	14	19902	Unreliable
+	"2010"	"2010"	"84 years"	"84"	11	18123	Unreliable
+	"2010"	"2010"	"85 years"	"85"	11	Not Applicable	Not Applicable
+	"2010"	"2010"	"86 years"	"86"	4	Not Applicable	Not Applicable
+	"2010"	"2010"	"87 years"	"87"	7	Not Applicable	Not Applicable
+	"2010"	"2010"	"88 years"	"88"	9	Not Applicable	Not Applicable
+	"2010"	"2010"	"89 years"	"89"	6	Not Applicable	Not Applicable
+	"2010"	"2010"	"90 years"	"90"	8	Not Applicable	Not Applicable
+	"2010"	"2010"	"91 years"	"91"	5	Not Applicable	Not Applicable
+	"2010"	"2010"	"92 years"	"92"	5	Not Applicable	Not Applicable
+	"2010"	"2010"	"93 years"	"93"	2	Not Applicable	Not Applicable
+	"2010"	"2010"	"94 years"	"94"	5	Not Applicable	Not Applicable
+	"2010"	"2010"	"95 years"	"95"	1	Not Applicable	Not Applicable
+	"2010"	"2010"	"96 years"	"96"	3	Not Applicable	Not Applicable
+	"2010"	"2010"	"97 years"	"97"	1	Not Applicable	Not Applicable
+	"2010"	"2010"	"98 years"	"98"	2	Not Applicable	Not Applicable
+	"2010"	"2010"	"99 years"	"99"	1	Not Applicable	Not Applicable
+	"2010"	"2010"	"100+ years"	"100"	2	Not Applicable	Not Applicable
+	"2010"	"2010"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2010"	"2010"			961	8858835	10.8
+	"2011"	"2011"	"< 1 year"	"0"	0	114463	Unreliable
+	"2011"	"2011"	"1 year"	"1"	0	114991	Unreliable
+	"2011"	"2011"	"2 years"	"2"	0	113838	Unreliable
+	"2011"	"2011"	"3 years"	"3"	0	118715	Unreliable
+	"2011"	"2011"	"4 years"	"4"	0	117478	Unreliable
+	"2011"	"2011"	"5 years"	"5"	0	117146	Unreliable
+	"2011"	"2011"	"6 years"	"6"	0	119813	Unreliable
+	"2011"	"2011"	"7 years"	"7"	0	119938	Unreliable
+	"2011"	"2011"	"8 years"	"8"	0	118895	Unreliable
+	"2011"	"2011"	"9 years"	"9"	0	113158	Unreliable
+	"2011"	"2011"	"10 years"	"10"	0	116070	Unreliable
+	"2011"	"2011"	"11 years"	"11"	0	113726	Unreliable
+	"2011"	"2011"	"12 years"	"12"	0	108203	Unreliable
+	"2011"	"2011"	"13 years"	"13"	0	109290	Unreliable
+	"2011"	"2011"	"14 years"	"14"	0	110126	Unreliable
+	"2011"	"2011"	"15 years"	"15"	0	110813	Unreliable
+	"2011"	"2011"	"16 years"	"16"	0	110146	Unreliable
+	"2011"	"2011"	"17 years"	"17"	0	110980	Unreliable
+	"2011"	"2011"	"18 years"	"18"	0	112077	Unreliable
+	"2011"	"2011"	"19 years"	"19"	0	118309	Unreliable
+	"2011"	"2011"	"20 years"	"20"	0	128165	Unreliable
+	"2011"	"2011"	"21 years"	"21"	0	132688	Unreliable
+	"2011"	"2011"	"22 years"	"22"	0	135070	Unreliable
+	"2011"	"2011"	"23 years"	"23"	0	133683	Unreliable
+	"2011"	"2011"	"24 years"	"24"	0	134132	Unreliable
+	"2011"	"2011"	"25 years"	"25"	0	139047	Unreliable
+	"2011"	"2011"	"26 years"	"26"	0	147458	Unreliable
+	"2011"	"2011"	"27 years"	"27"	0	150060	Unreliable
+	"2011"	"2011"	"28 years"	"28"	1	155903	Unreliable
+	"2011"	"2011"	"29 years"	"29"	2	159543	Unreliable
+	"2011"	"2011"	"30 years"	"30"	1	156513	Unreliable
+	"2011"	"2011"	"31 years"	"31"	1	160784	Unreliable
+	"2011"	"2011"	"32 years"	"32"	0	153383	Unreliable
+	"2011"	"2011"	"33 years"	"33"	3	149888	Unreliable
+	"2011"	"2011"	"34 years"	"34"	2	151199	Unreliable
+	"2011"	"2011"	"35 years"	"35"	4	150669	Unreliable
+	"2011"	"2011"	"36 years"	"36"	10	155580	Unreliable
+	"2011"	"2011"	"37 years"	"37"	5	153660	Unreliable
+	"2011"	"2011"	"38 years"	"38"	7	155654	Unreliable
+	"2011"	"2011"	"39 years"	"39"	10	156036	Unreliable
+	"2011"	"2011"	"40 years"	"40"	9	153397	Unreliable
+	"2011"	"2011"	"41 years"	"41"	13	154363	Unreliable
+	"2011"	"2011"	"42 years"	"42"	8	144772	Unreliable
+	"2011"	"2011"	"43 years"	"43"	8	138431	Unreliable
+	"2011"	"2011"	"44 years"	"44"	21	128045	16.4
+	"2011"	"2011"	"45 years"	"45"	13	129560	Unreliable
+	"2011"	"2011"	"46 years"	"46"	24	132124	18.2
+	"2011"	"2011"	"47 years"	"47"	21	134305	15.6
+	"2011"	"2011"	"48 years"	"48"	12	132868	Unreliable
+	"2011"	"2011"	"49 years"	"49"	18	121907	Unreliable
+	"2011"	"2011"	"50 years"	"50"	20	120481	16.6
+	"2011"	"2011"	"51 years"	"51"	14	126192	Unreliable
+	"2011"	"2011"	"52 years"	"52"	21	117723	17.8
+	"2011"	"2011"	"53 years"	"53"	19	117774	Unreliable
+	"2011"	"2011"	"54 years"	"54"	34	114390	29.7
+	"2011"	"2011"	"55 years"	"55"	36	113821	31.6
+	"2011"	"2011"	"56 years"	"56"	25	113727	22.0
+	"2011"	"2011"	"57 years"	"57"	30	106275	28.2
+	"2011"	"2011"	"58 years"	"58"	18	101734	Unreliable
+	"2011"	"2011"	"59 years"	"59"	23	96844	23.7
+	"2011"	"2011"	"60 years"	"60"	31	93924	33.0
+	"2011"	"2011"	"61 years"	"61"	41	97837	41.9
+	"2011"	"2011"	"62 years"	"62"	30	90075	33.3
+	"2011"	"2011"	"63 years"	"63"	24	85095	28.2
+	"2011"	"2011"	"64 years"	"64"	29	79808	36.3
+	"2011"	"2011"	"65 years"	"65"	21	67280	31.2
+	"2011"	"2011"	"66 years"	"66"	18	65325	Unreliable
+	"2011"	"2011"	"67 years"	"67"	22	60261	36.5
+	"2011"	"2011"	"68 years"	"68"	20	55608	36.0
+	"2011"	"2011"	"69 years"	"69"	22	53964	40.8
+	"2011"	"2011"	"70 years"	"70"	18	49901	Unreliable
+	"2011"	"2011"	"71 years"	"71"	19	48422	Unreliable
+	"2011"	"2011"	"72 years"	"72"	18	43589	Unreliable
+	"2011"	"2011"	"73 years"	"73"	10	41840	Unreliable
+	"2011"	"2011"	"74 years"	"74"	14	39263	Unreliable
+	"2011"	"2011"	"75 years"	"75"	14	37183	Unreliable
+	"2011"	"2011"	"76 years"	"76"	17	35252	Unreliable
+	"2011"	"2011"	"77 years"	"77"	11	32087	Unreliable
+	"2011"	"2011"	"78 years"	"78"	13	31506	Unreliable
+	"2011"	"2011"	"79 years"	"79"	16	28651	Unreliable
+	"2011"	"2011"	"80 years"	"80"	8	27134	Unreliable
+	"2011"	"2011"	"81 years"	"81"	14	26553	Unreliable
+	"2011"	"2011"	"82 years"	"82"	13	23311	Unreliable
+	"2011"	"2011"	"83 years"	"83"	13	21437	Unreliable
+	"2011"	"2011"	"84 years"	"84"	13	19306	Unreliable
+	"2011"	"2011"	"85 years"	"85"	9	Not Applicable	Not Applicable
+	"2011"	"2011"	"86 years"	"86"	9	Not Applicable	Not Applicable
+	"2011"	"2011"	"87 years"	"87"	10	Not Applicable	Not Applicable
+	"2011"	"2011"	"88 years"	"88"	11	Not Applicable	Not Applicable
+	"2011"	"2011"	"89 years"	"89"	4	Not Applicable	Not Applicable
+	"2011"	"2011"	"90 years"	"90"	4	Not Applicable	Not Applicable
+	"2011"	"2011"	"91 years"	"91"	8	Not Applicable	Not Applicable
+	"2011"	"2011"	"92 years"	"92"	5	Not Applicable	Not Applicable
+	"2011"	"2011"	"93 years"	"93"	2	Not Applicable	Not Applicable
+	"2011"	"2011"	"94 years"	"94"	1	Not Applicable	Not Applicable
+	"2011"	"2011"	"95 years"	"95"	3	Not Applicable	Not Applicable
+	"2011"	"2011"	"96 years"	"96"	7	Not Applicable	Not Applicable
+	"2011"	"2011"	"97 years"	"97"	0	Not Applicable	Not Applicable
+	"2011"	"2011"	"98 years"	"98"	1	Not Applicable	Not Applicable
+	"2011"	"2011"	"99 years"	"99"	0	Not Applicable	Not Applicable
+	"2011"	"2011"	"100+ years"	"100"	1	Not Applicable	Not Applicable
+	"2011"	"2011"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2011"	"2011"			977	9105690	10.7
+	"2012"	"2012"	"< 1 year"	"0"	0	113169	Unreliable
+	"2012"	"2012"	"1 year"	"1"	0	117259	Unreliable
+	"2012"	"2012"	"2 years"	"2"	0	118852	Unreliable
+	"2012"	"2012"	"3 years"	"3"	0	116775	Unreliable
+	"2012"	"2012"	"4 years"	"4"	0	121142	Unreliable
+	"2012"	"2012"	"5 years"	"5"	0	119640	Unreliable
+	"2012"	"2012"	"6 years"	"6"	0	119276	Unreliable
+	"2012"	"2012"	"7 years"	"7"	0	122067	Unreliable
+	"2012"	"2012"	"8 years"	"8"	0	121986	Unreliable
+	"2012"	"2012"	"9 years"	"9"	0	120961	Unreliable
+	"2012"	"2012"	"10 years"	"10"	0	115170	Unreliable
+	"2012"	"2012"	"11 years"	"11"	0	118079	Unreliable
+	"2012"	"2012"	"12 years"	"12"	0	115581	Unreliable
+	"2012"	"2012"	"13 years"	"13"	0	110176	Unreliable
+	"2012"	"2012"	"14 years"	"14"	0	111579	Unreliable
+	"2012"	"2012"	"15 years"	"15"	0	112731	Unreliable
+	"2012"	"2012"	"16 years"	"16"	0	113697	Unreliable
+	"2012"	"2012"	"17 years"	"17"	0	113499	Unreliable
+	"2012"	"2012"	"18 years"	"18"	0	115280	Unreliable
+	"2012"	"2012"	"19 years"	"19"	0	117365	Unreliable
+	"2012"	"2012"	"20 years"	"20"	0	124552	Unreliable
+	"2012"	"2012"	"21 years"	"21"	0	135094	Unreliable
+	"2012"	"2012"	"22 years"	"22"	0	140931	Unreliable
+	"2012"	"2012"	"23 years"	"23"	0	144831	Unreliable
+	"2012"	"2012"	"24 years"	"24"	1	144232	Unreliable
+	"2012"	"2012"	"25 years"	"25"	0	145175	Unreliable
+	"2012"	"2012"	"26 years"	"26"	0	149822	Unreliable
+	"2012"	"2012"	"27 years"	"27"	0	157278	Unreliable
+	"2012"	"2012"	"28 years"	"28"	1	158880	Unreliable
+	"2012"	"2012"	"29 years"	"29"	4	163684	Unreliable
+	"2012"	"2012"	"30 years"	"30"	1	166343	Unreliable
+	"2012"	"2012"	"31 years"	"31"	4	162326	Unreliable
+	"2012"	"2012"	"32 years"	"32"	3	165955	Unreliable
+	"2012"	"2012"	"33 years"	"33"	1	158212	Unreliable
+	"2012"	"2012"	"34 years"	"34"	2	154332	Unreliable
+	"2012"	"2012"	"35 years"	"35"	3	155321	Unreliable
+	"2012"	"2012"	"36 years"	"36"	9	154279	Unreliable
+	"2012"	"2012"	"37 years"	"37"	6	158828	Unreliable
+	"2012"	"2012"	"38 years"	"38"	9	156759	Unreliable
+	"2012"	"2012"	"39 years"	"39"	13	158602	Unreliable
+	"2012"	"2012"	"40 years"	"40"	10	158795	Unreliable
+	"2012"	"2012"	"41 years"	"41"	13	156006	Unreliable
+	"2012"	"2012"	"42 years"	"42"	13	156778	Unreliable
+	"2012"	"2012"	"43 years"	"43"	9	146974	Unreliable
+	"2012"	"2012"	"44 years"	"44"	13	140726	Unreliable
+	"2012"	"2012"	"45 years"	"45"	8	130143	Unreliable
+	"2012"	"2012"	"46 years"	"46"	28	131405	21.3
+	"2012"	"2012"	"47 years"	"47"	16	133781	Unreliable
+	"2012"	"2012"	"48 years"	"48"	21	135899	15.5
+	"2012"	"2012"	"49 years"	"49"	28	134313	20.8
+	"2012"	"2012"	"50 years"	"50"	22	123242	17.9
+	"2012"	"2012"	"51 years"	"51"	22	121788	18.1
+	"2012"	"2012"	"52 years"	"52"	24	127491	18.8
+	"2012"	"2012"	"53 years"	"53"	18	119026	Unreliable
+	"2012"	"2012"	"54 years"	"54"	26	118908	21.9
+	"2012"	"2012"	"55 years"	"55"	35	115308	30.4
+	"2012"	"2012"	"56 years"	"56"	27	114817	23.5
+	"2012"	"2012"	"57 years"	"57"	32	114816	27.9
+	"2012"	"2012"	"58 years"	"58"	29	107407	27.0
+	"2012"	"2012"	"59 years"	"59"	24	102829	23.3
+	"2012"	"2012"	"60 years"	"60"	34	97937	34.7
+	"2012"	"2012"	"61 years"	"61"	21	94893	22.1
+	"2012"	"2012"	"62 years"	"62"	26	98624	26.4
+	"2012"	"2012"	"63 years"	"63"	27	90881	29.7
+	"2012"	"2012"	"64 years"	"64"	29	85763	33.8
+	"2012"	"2012"	"65 years"	"65"	26	80276	32.4
+	"2012"	"2012"	"66 years"	"66"	22	67851	32.4
+	"2012"	"2012"	"67 years"	"67"	22	65890	33.4
+	"2012"	"2012"	"68 years"	"68"	20	60772	32.9
+	"2012"	"2012"	"69 years"	"69"	20	55914	35.8
+	"2012"	"2012"	"70 years"	"70"	26	54189	48.0
+	"2012"	"2012"	"71 years"	"71"	24	50006	48.0
+	"2012"	"2012"	"72 years"	"72"	15	48493	Unreliable
+	"2012"	"2012"	"73 years"	"73"	18	43591	Unreliable
+	"2012"	"2012"	"74 years"	"74"	18	41705	Unreliable
+	"2012"	"2012"	"75 years"	"75"	10	39146	Unreliable
+	"2012"	"2012"	"76 years"	"76"	8	36931	Unreliable
+	"2012"	"2012"	"77 years"	"77"	11	34916	Unreliable
+	"2012"	"2012"	"78 years"	"78"	14	31710	Unreliable
+	"2012"	"2012"	"79 years"	"79"	13	30957	Unreliable
+	"2012"	"2012"	"80 years"	"80"	16	28091	Unreliable
+	"2012"	"2012"	"81 years"	"81"	11	26564	Unreliable
+	"2012"	"2012"	"82 years"	"82"	11	25920	Unreliable
+	"2012"	"2012"	"83 years"	"83"	16	22608	Unreliable
+	"2012"	"2012"	"84 years"	"84"	10	20673	Unreliable
+	"2012"	"2012"	"85 years"	"85"	14	Not Applicable	Not Applicable
+	"2012"	"2012"	"86 years"	"86"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"87 years"	"87"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"88 years"	"88"	12	Not Applicable	Not Applicable
+	"2012"	"2012"	"89 years"	"89"	10	Not Applicable	Not Applicable
+	"2012"	"2012"	"90 years"	"90"	5	Not Applicable	Not Applicable
+	"2012"	"2012"	"91 years"	"91"	1	Not Applicable	Not Applicable
+	"2012"	"2012"	"92 years"	"92"	5	Not Applicable	Not Applicable
+	"2012"	"2012"	"93 years"	"93"	5	Not Applicable	Not Applicable
+	"2012"	"2012"	"94 years"	"94"	3	Not Applicable	Not Applicable
+	"2012"	"2012"	"95 years"	"95"	2	Not Applicable	Not Applicable
+	"2012"	"2012"	"96 years"	"96"	1	Not Applicable	Not Applicable
+	"2012"	"2012"	"97 years"	"97"	2	Not Applicable	Not Applicable
+	"2012"	"2012"	"98 years"	"98"	1	Not Applicable	Not Applicable
+	"2012"	"2012"	"99 years"	"99"	1	Not Applicable	Not Applicable
+	"2012"	"2012"	"100+ years"	"100"	3	Not Applicable	Not Applicable
+	"2012"	"2012"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2012"	"2012"			1032	9429528	10.9
+	"2013"	"2013"	"< 1 year"	"0"	0	115688	Unreliable
+	"2013"	"2013"	"1 year"	"1"	0	118851	Unreliable
+	"2013"	"2013"	"2 years"	"2"	0	120671	Unreliable
+	"2013"	"2013"	"3 years"	"3"	0	120680	Unreliable
+	"2013"	"2013"	"4 years"	"4"	0	119005	Unreliable
+	"2013"	"2013"	"5 years"	"5"	0	123291	Unreliable
+	"2013"	"2013"	"6 years"	"6"	0	121440	Unreliable
+	"2013"	"2013"	"7 years"	"7"	0	120990	Unreliable
+	"2013"	"2013"	"8 years"	"8"	0	123605	Unreliable
+	"2013"	"2013"	"9 years"	"9"	0	123652	Unreliable
+	"2013"	"2013"	"10 years"	"10"	0	122521	Unreliable
+	"2013"	"2013"	"11 years"	"11"	0	116901	Unreliable
+	"2013"	"2013"	"12 years"	"12"	0	119820	Unreliable
+	"2013"	"2013"	"13 years"	"13"	0	117525	Unreliable
+	"2013"	"2013"	"14 years"	"14"	0	112271	Unreliable
+	"2013"	"2013"	"15 years"	"15"	0	113732	Unreliable
+	"2013"	"2013"	"16 years"	"16"	0	114939	Unreliable
+	"2013"	"2013"	"17 years"	"17"	0	116386	Unreliable
+	"2013"	"2013"	"18 years"	"18"	0	117087	Unreliable
+	"2013"	"2013"	"19 years"	"19"	0	119605	Unreliable
+	"2013"	"2013"	"20 years"	"20"	0	122410	Unreliable
+	"2013"	"2013"	"21 years"	"21"	0	130228	Unreliable
+	"2013"	"2013"	"22 years"	"22"	0	141973	Unreliable
+	"2013"	"2013"	"23 years"	"23"	0	149018	Unreliable
+	"2013"	"2013"	"24 years"	"24"	0	153736	Unreliable
+	"2013"	"2013"	"25 years"	"25"	0	153312	Unreliable
+	"2013"	"2013"	"26 years"	"26"	0	153603	Unreliable
+	"2013"	"2013"	"27 years"	"27"	0	157199	Unreliable
+	"2013"	"2013"	"28 years"	"28"	1	163543	Unreliable
+	"2013"	"2013"	"29 years"	"29"	2	164326	Unreliable
+	"2013"	"2013"	"30 years"	"30"	0	168497	Unreliable
+	"2013"	"2013"	"31 years"	"31"	0	170370	Unreliable
+	"2013"	"2013"	"32 years"	"32"	2	166031	Unreliable
+	"2013"	"2013"	"33 years"	"33"	1	169694	Unreliable
+	"2013"	"2013"	"34 years"	"34"	1	161856	Unreliable
+	"2013"	"2013"	"35 years"	"35"	2	157691	Unreliable
+	"2013"	"2013"	"36 years"	"36"	2	158253	Unreliable
+	"2013"	"2013"	"37 years"	"37"	4	157024	Unreliable
+	"2013"	"2013"	"38 years"	"38"	7	161410	Unreliable
+	"2013"	"2013"	"39 years"	"39"	9	159056	Unreliable
+	"2013"	"2013"	"40 years"	"40"	15	160930	Unreliable
+	"2013"	"2013"	"41 years"	"41"	12	160938	Unreliable
+	"2013"	"2013"	"42 years"	"42"	14	157736	Unreliable
+	"2013"	"2013"	"43 years"	"43"	8	158514	Unreliable
+	"2013"	"2013"	"44 years"	"44"	17	148870	Unreliable
+	"2013"	"2013"	"45 years"	"45"	10	142312	Unreliable
+	"2013"	"2013"	"46 years"	"46"	17	131486	Unreliable
+	"2013"	"2013"	"47 years"	"47"	21	132733	15.8
+	"2013"	"2013"	"48 years"	"48"	17	135076	Unreliable
+	"2013"	"2013"	"49 years"	"49"	26	137045	19.0
+	"2013"	"2013"	"50 years"	"50"	16	135419	Unreliable
+	"2013"	"2013"	"51 years"	"51"	27	124286	21.7
+	"2013"	"2013"	"52 years"	"52"	28	122752	22.8
+	"2013"	"2013"	"53 years"	"53"	21	128516	16.3
+	"2013"	"2013"	"54 years"	"54"	21	119829	17.5
+	"2013"	"2013"	"55 years"	"55"	32	119694	26.7
+	"2013"	"2013"	"56 years"	"56"	24	116310	20.6
+	"2013"	"2013"	"57 years"	"57"	26	115742	22.5
+	"2013"	"2013"	"58 years"	"58"	32	115684	27.7
+	"2013"	"2013"	"59 years"	"59"	29	108246	26.8
+	"2013"	"2013"	"60 years"	"60"	26	103666	25.1
+	"2013"	"2013"	"61 years"	"61"	30	98700	30.4
+	"2013"	"2013"	"62 years"	"62"	35	95527	36.6
+	"2013"	"2013"	"63 years"	"63"	34	99217	34.3
+	"2013"	"2013"	"64 years"	"64"	21	91262	23.0
+	"2013"	"2013"	"65 years"	"65"	21	86125	24.4
+	"2013"	"2013"	"66 years"	"66"	24	80666	29.8
+	"2013"	"2013"	"67 years"	"67"	26	68318	38.1
+	"2013"	"2013"	"68 years"	"68"	17	66305	Unreliable
+	"2013"	"2013"	"69 years"	"69"	17	61079	Unreliable
+	"2013"	"2013"	"70 years"	"70"	19	56228	Unreliable
+	"2013"	"2013"	"71 years"	"71"	19	54320	Unreliable
+	"2013"	"2013"	"72 years"	"72"	23	50020	46.0
+	"2013"	"2013"	"73 years"	"73"	16	48431	Unreliable
+	"2013"	"2013"	"74 years"	"74"	19	43468	Unreliable
+	"2013"	"2013"	"75 years"	"75"	22	41506	53.0
+	"2013"	"2013"	"76 years"	"76"	19	38761	Unreliable
+	"2013"	"2013"	"77 years"	"77"	20	36512	54.8
+	"2013"	"2013"	"78 years"	"78"	19	34422	Unreliable
+	"2013"	"2013"	"79 years"	"79"	15	31111	Unreliable
+	"2013"	"2013"	"80 years"	"80"	14	30311	Unreliable
+	"2013"	"2013"	"81 years"	"81"	7	27448	Unreliable
+	"2013"	"2013"	"82 years"	"82"	11	25862	Unreliable
+	"2013"	"2013"	"83 years"	"83"	13	25111	Unreliable
+	"2013"	"2013"	"84 years"	"84"	12	21826	Unreliable
+	"2013"	"2013"	"85 years"	"85"	16	Not Applicable	Not Applicable
+	"2013"	"2013"	"86 years"	"86"	11	Not Applicable	Not Applicable
+	"2013"	"2013"	"87 years"	"87"	7	Not Applicable	Not Applicable
+	"2013"	"2013"	"88 years"	"88"	13	Not Applicable	Not Applicable
+	"2013"	"2013"	"89 years"	"89"	9	Not Applicable	Not Applicable
+	"2013"	"2013"	"90 years"	"90"	11	Not Applicable	Not Applicable
+	"2013"	"2013"	"91 years"	"91"	11	Not Applicable	Not Applicable
+	"2013"	"2013"	"92 years"	"92"	4	Not Applicable	Not Applicable
+	"2013"	"2013"	"93 years"	"93"	2	Not Applicable	Not Applicable
+	"2013"	"2013"	"94 years"	"94"	4	Not Applicable	Not Applicable
+	"2013"	"2013"	"95 years"	"95"	5	Not Applicable	Not Applicable
+	"2013"	"2013"	"96 years"	"96"	4	Not Applicable	Not Applicable
+	"2013"	"2013"	"97 years"	"97"	2	Not Applicable	Not Applicable
+	"2013"	"2013"	"98 years"	"98"	1	Not Applicable	Not Applicable
+	"2013"	"2013"	"99 years"	"99"	3	Not Applicable	Not Applicable
+	"2013"	"2013"	"100+ years"	"100"	2	Not Applicable	Not Applicable
+	"2013"	"2013"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2013"	"2013"			1048	9713037	10.8
+	"2014"	"2014"	"< 1 year"	"0"	0	120793	Unreliable
+	"2014"	"2014"	"1 year"	"1"	0	125058	Unreliable
+	"2014"	"2014"	"2 years"	"2"	0	121766	Unreliable
+	"2014"	"2014"	"3 years"	"3"	0	120256	Unreliable
+	"2014"	"2014"	"4 years"	"4"	0	122003	Unreliable
+	"2014"	"2014"	"5 years"	"5"	0	120821	Unreliable
+	"2014"	"2014"	"6 years"	"6"	0	125027	Unreliable
+	"2014"	"2014"	"7 years"	"7"	0	123249	Unreliable
+	"2014"	"2014"	"8 years"	"8"	0	122732	Unreliable
+	"2014"	"2014"	"9 years"	"9"	0	125744	Unreliable
+	"2014"	"2014"	"10 years"	"10"	0	125826	Unreliable
+	"2014"	"2014"	"11 years"	"11"	0	124878	Unreliable
+	"2014"	"2014"	"12 years"	"12"	0	119165	Unreliable
+	"2014"	"2014"	"13 years"	"13"	0	122275	Unreliable
+	"2014"	"2014"	"14 years"	"14"	0	120207	Unreliable
+	"2014"	"2014"	"15 years"	"15"	0	115309	Unreliable
+	"2014"	"2014"	"16 years"	"16"	0	117261	Unreliable
+	"2014"	"2014"	"17 years"	"17"	0	119751	Unreliable
+	"2014"	"2014"	"18 years"	"18"	0	123201	Unreliable
+	"2014"	"2014"	"19 years"	"19"	0	125722	Unreliable
+	"2014"	"2014"	"20 years"	"20"	0	129488	Unreliable
+	"2014"	"2014"	"21 years"	"21"	0	133140	Unreliable
+	"2014"	"2014"	"22 years"	"22"	0	142001	Unreliable
+	"2014"	"2014"	"23 years"	"23"	0	154334	Unreliable
+	"2014"	"2014"	"24 years"	"24"	0	161462	Unreliable
+	"2014"	"2014"	"25 years"	"25"	1	165899	Unreliable
+	"2014"	"2014"	"26 years"	"26"	0	164559	Unreliable
+	"2014"	"2014"	"27 years"	"27"	1	163719	Unreliable
+	"2014"	"2014"	"28 years"	"28"	1	166654	Unreliable
+	"2014"	"2014"	"29 years"	"29"	0	172003	Unreliable
+	"2014"	"2014"	"30 years"	"30"	1	171850	Unreliable
+	"2014"	"2014"	"31 years"	"31"	1	174972	Unreliable
+	"2014"	"2014"	"32 years"	"32"	4	176190	Unreliable
+	"2014"	"2014"	"33 years"	"33"	1	171296	Unreliable
+	"2014"	"2014"	"34 years"	"34"	6	174628	Unreliable
+	"2014"	"2014"	"35 years"	"35"	7	166679	Unreliable
+	"2014"	"2014"	"36 years"	"36"	11	162143	Unreliable
+	"2014"	"2014"	"37 years"	"37"	10	162760	Unreliable
+	"2014"	"2014"	"38 years"	"38"	11	161607	Unreliable
+	"2014"	"2014"	"39 years"	"39"	7	165717	Unreliable
+	"2014"	"2014"	"40 years"	"40"	10	163001	Unreliable
+	"2014"	"2014"	"41 years"	"41"	11	164565	Unreliable
+	"2014"	"2014"	"42 years"	"42"	11	164409	Unreliable
+	"2014"	"2014"	"43 years"	"43"	10	161436	Unreliable
+	"2014"	"2014"	"44 years"	"44"	17	162166	Unreliable
+	"2014"	"2014"	"45 years"	"45"	15	152123	Unreliable
+	"2014"	"2014"	"46 years"	"46"	12	145326	Unreliable
+	"2014"	"2014"	"47 years"	"47"	21	134479	15.6
+	"2014"	"2014"	"48 years"	"48"	19	135661	Unreliable
+	"2014"	"2014"	"49 years"	"49"	16	137721	Unreliable
+	"2014"	"2014"	"50 years"	"50"	37	139672	26.5
+	"2014"	"2014"	"51 years"	"51"	28	137998	20.3
+	"2014"	"2014"	"52 years"	"52"	22	126870	17.3
+	"2014"	"2014"	"53 years"	"53"	36	125449	28.7
+	"2014"	"2014"	"54 years"	"54"	24	131000	18.3
+	"2014"	"2014"	"55 years"	"55"	31	122250	25.4
+	"2014"	"2014"	"56 years"	"56"	23	122116	18.8
+	"2014"	"2014"	"57 years"	"57"	38	118532	32.1
+	"2014"	"2014"	"58 years"	"58"	30	117763	25.5
+	"2014"	"2014"	"59 years"	"59"	39	117442	33.2
+	"2014"	"2014"	"60 years"	"60"	33	109905	30.0
+	"2014"	"2014"	"61 years"	"61"	24	105325	22.8
+	"2014"	"2014"	"62 years"	"62"	30	100287	29.9
+	"2014"	"2014"	"63 years"	"63"	33	96987	34.0
+	"2014"	"2014"	"64 years"	"64"	26	100417	25.9
+	"2014"	"2014"	"65 years"	"65"	30	92293	32.5
+	"2014"	"2014"	"66 years"	"66"	25	86989	28.7
+	"2014"	"2014"	"67 years"	"67"	27	81599	33.1
+	"2014"	"2014"	"68 years"	"68"	26	69292	37.5
+	"2014"	"2014"	"69 years"	"69"	28	67102	41.7
+	"2014"	"2014"	"70 years"	"70"	19	61666	Unreliable
+	"2014"	"2014"	"71 years"	"71"	23	56693	40.6
+	"2014"	"2014"	"72 years"	"72"	28	54768	51.1
+	"2014"	"2014"	"73 years"	"73"	18	50514	Unreliable
+	"2014"	"2014"	"74 years"	"74"	11	48778	Unreliable
+	"2014"	"2014"	"75 years"	"75"	20	43712	45.8
+	"2014"	"2014"	"76 years"	"76"	25	41552	60.2
+	"2014"	"2014"	"77 years"	"77"	12	38634	Unreliable
+	"2014"	"2014"	"78 years"	"78"	18	36250	Unreliable
+	"2014"	"2014"	"79 years"	"79"	10	34061	Unreliable
+	"2014"	"2014"	"80 years"	"80"	15	30785	Unreliable
+	"2014"	"2014"	"81 years"	"81"	13	29907	Unreliable
+	"2014"	"2014"	"82 years"	"82"	10	26978	Unreliable
+	"2014"	"2014"	"83 years"	"83"	11	25241	Unreliable
+	"2014"	"2014"	"84 years"	"84"	24	24328	98.7
+	"2014"	"2014"	"85 years"	"85"	17	Not Applicable	Not Applicable
+	"2014"	"2014"	"86 years"	"86"	12	Not Applicable	Not Applicable
+	"2014"	"2014"	"87 years"	"87"	9	Not Applicable	Not Applicable
+	"2014"	"2014"	"88 years"	"88"	9	Not Applicable	Not Applicable
+	"2014"	"2014"	"89 years"	"89"	16	Not Applicable	Not Applicable
+	"2014"	"2014"	"90 years"	"90"	9	Not Applicable	Not Applicable
+	"2014"	"2014"	"91 years"	"91"	9	Not Applicable	Not Applicable
+	"2014"	"2014"	"92 years"	"92"	8	Not Applicable	Not Applicable
+	"2014"	"2014"	"93 years"	"93"	5	Not Applicable	Not Applicable
+	"2014"	"2014"	"94 years"	"94"	5	Not Applicable	Not Applicable
+	"2014"	"2014"	"95 years"	"95"	3	Not Applicable	Not Applicable
+	"2014"	"2014"	"96 years"	"96"	3	Not Applicable	Not Applicable
+	"2014"	"2014"	"97 years"	"97"	0	Not Applicable	Not Applicable
+	"2014"	"2014"	"98 years"	"98"	2	Not Applicable	Not Applicable
+	"2014"	"2014"	"99 years"	"99"	2	Not Applicable	Not Applicable
+	"2014"	"2014"	"100+ years"	"100"	3	Not Applicable	Not Applicable
+	"2014"	"2014"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2014"	"2014"			1163	10113992	11.5
+	"2015"	"2015"	"< 1 year"	"0"	0	118402	Unreliable
+	"2015"	"2015"	"1 year"	"1"	0	120567	Unreliable
+	"2015"	"2015"	"2 years"	"2"	0	126877	Unreliable
+	"2015"	"2015"	"3 years"	"3"	0	123822	Unreliable
+	"2015"	"2015"	"4 years"	"4"	0	121835	Unreliable
+	"2015"	"2015"	"5 years"	"5"	0	124360	Unreliable
+	"2015"	"2015"	"6 years"	"6"	0	123504	Unreliable
+	"2015"	"2015"	"7 years"	"7"	0	127899	Unreliable
+	"2015"	"2015"	"8 years"	"8"	0	126072	Unreliable
+	"2015"	"2015"	"9 years"	"9"	0	125548	Unreliable
+	"2015"	"2015"	"10 years"	"10"	0	128252	Unreliable
+	"2015"	"2015"	"11 years"	"11"	0	128553	Unreliable
+	"2015"	"2015"	"12 years"	"12"	0	127501	Unreliable
+	"2015"	"2015"	"13 years"	"13"	0	121912	Unreliable
+	"2015"	"2015"	"14 years"	"14"	0	125127	Unreliable
+	"2015"	"2015"	"15 years"	"15"	0	123246	Unreliable
+	"2015"	"2015"	"16 years"	"16"	0	118805	Unreliable
+	"2015"	"2015"	"17 years"	"17"	0	122160	Unreliable
+	"2015"	"2015"	"18 years"	"18"	0	126423	Unreliable
+	"2015"	"2015"	"19 years"	"19"	0	131057	Unreliable
+	"2015"	"2015"	"20 years"	"20"	0	133770	Unreliable
+	"2015"	"2015"	"21 years"	"21"	0	138051	Unreliable
+	"2015"	"2015"	"22 years"	"22"	0	143349	Unreliable
+	"2015"	"2015"	"23 years"	"23"	0	153522	Unreliable
+	"2015"	"2015"	"24 years"	"24"	1	166317	Unreliable
+	"2015"	"2015"	"25 years"	"25"	0	173127	Unreliable
+	"2015"	"2015"	"26 years"	"26"	1	176802	Unreliable
+	"2015"	"2015"	"27 years"	"27"	0	174618	Unreliable
+	"2015"	"2015"	"28 years"	"28"	2	173119	Unreliable
+	"2015"	"2015"	"29 years"	"29"	1	175255	Unreliable
+	"2015"	"2015"	"30 years"	"30"	4	179775	Unreliable
+	"2015"	"2015"	"31 years"	"31"	1	178785	Unreliable
+	"2015"	"2015"	"32 years"	"32"	2	181498	Unreliable
+	"2015"	"2015"	"33 years"	"33"	1	182029	Unreliable
+	"2015"	"2015"	"34 years"	"34"	3	176487	Unreliable
+	"2015"	"2015"	"35 years"	"35"	6	179361	Unreliable
+	"2015"	"2015"	"36 years"	"36"	4	170915	Unreliable
+	"2015"	"2015"	"37 years"	"37"	3	166381	Unreliable
+	"2015"	"2015"	"38 years"	"38"	8	166901	Unreliable
+	"2015"	"2015"	"39 years"	"39"	6	165504	Unreliable
+	"2015"	"2015"	"40 years"	"40"	14	169440	Unreliable
+	"2015"	"2015"	"41 years"	"41"	14	166343	Unreliable
+	"2015"	"2015"	"42 years"	"42"	13	167502	Unreliable
+	"2015"	"2015"	"43 years"	"43"	21	167208	12.6
+	"2015"	"2015"	"44 years"	"44"	11	164147	Unreliable
+	"2015"	"2015"	"45 years"	"45"	19	164561	Unreliable
+	"2015"	"2015"	"46 years"	"46"	20	154171	13.0
+	"2015"	"2015"	"47 years"	"47"	12	147266	Unreliable
+	"2015"	"2015"	"48 years"	"48"	19	136453	Unreliable
+	"2015"	"2015"	"49 years"	"49"	27	137367	19.7
+	"2015"	"2015"	"50 years"	"50"	22	139592	15.8
+	"2015"	"2015"	"51 years"	"51"	19	141632	Unreliable
+	"2015"	"2015"	"52 years"	"52"	24	139876	17.2
+	"2015"	"2015"	"53 years"	"53"	29	128639	22.5
+	"2015"	"2015"	"54 years"	"54"	31	127222	24.4
+	"2015"	"2015"	"55 years"	"55"	28	132707	21.1
+	"2015"	"2015"	"56 years"	"56"	31	123932	25.0
+	"2015"	"2015"	"57 years"	"57"	41	123768	33.1
+	"2015"	"2015"	"58 years"	"58"	31	120131	25.8
+	"2015"	"2015"	"59 years"	"59"	43	119217	36.1
+	"2015"	"2015"	"60 years"	"60"	33	118886	27.8
+	"2015"	"2015"	"61 years"	"61"	36	111263	32.4
+	"2015"	"2015"	"62 years"	"62"	38	106487	35.7
+	"2015"	"2015"	"63 years"	"63"	28	101202	27.7
+	"2015"	"2015"	"64 years"	"64"	27	97777	27.6
+	"2015"	"2015"	"65 years"	"65"	33	101132	32.6
+	"2015"	"2015"	"66 years"	"66"	23	93026	24.7
+	"2015"	"2015"	"67 years"	"67"	26	87717	29.6
+	"2015"	"2015"	"68 years"	"68"	20	82289	24.3
+	"2015"	"2015"	"69 years"	"69"	27	69720	38.7
+	"2015"	"2015"	"70 years"	"70"	29	67461	43.0
+	"2015"	"2015"	"71 years"	"71"	27	61947	43.6
+	"2015"	"2015"	"72 years"	"72"	16	56906	Unreliable
+	"2015"	"2015"	"73 years"	"73"	25	54851	45.6
+	"2015"	"2015"	"74 years"	"74"	23	50523	45.5
+	"2015"	"2015"	"75 years"	"75"	22	48615	45.3
+	"2015"	"2015"	"76 years"	"76"	36	43454	82.8
+	"2015"	"2015"	"77 years"	"77"	17	41208	Unreliable
+	"2015"	"2015"	"78 years"	"78"	25	38261	65.3
+	"2015"	"2015"	"79 years"	"79"	15	35751	Unreliable
+	"2015"	"2015"	"80 years"	"80"	20	33446	59.8
+	"2015"	"2015"	"81 years"	"81"	12	30047	Unreliable
+	"2015"	"2015"	"82 years"	"82"	17	29054	Unreliable
+	"2015"	"2015"	"83 years"	"83"	14	26136	Unreliable
+	"2015"	"2015"	"84 years"	"84"	18	24371	Unreliable
+	"2015"	"2015"	"85 years"	"85"	10	Not Applicable	Not Applicable
+	"2015"	"2015"	"86 years"	"86"	8	Not Applicable	Not Applicable
+	"2015"	"2015"	"87 years"	"87"	10	Not Applicable	Not Applicable
+	"2015"	"2015"	"88 years"	"88"	20	Not Applicable	Not Applicable
+	"2015"	"2015"	"89 years"	"89"	12	Not Applicable	Not Applicable
+	"2015"	"2015"	"90 years"	"90"	13	Not Applicable	Not Applicable
+	"2015"	"2015"	"91 years"	"91"	7	Not Applicable	Not Applicable
+	"2015"	"2015"	"92 years"	"92"	12	Not Applicable	Not Applicable
+	"2015"	"2015"	"93 years"	"93"	7	Not Applicable	Not Applicable
+	"2015"	"2015"	"94 years"	"94"	1	Not Applicable	Not Applicable
+	"2015"	"2015"	"95 years"	"95"	5	Not Applicable	Not Applicable
+	"2015"	"2015"	"96 years"	"96"	4	Not Applicable	Not Applicable
+	"2015"	"2015"	"97 years"	"97"	0	Not Applicable	Not Applicable
+	"2015"	"2015"	"98 years"	"98"	0	Not Applicable	Not Applicable
+	"2015"	"2015"	"99 years"	"99"	1	Not Applicable	Not Applicable
+	"2015"	"2015"	"100+ years"	"100"	1	Not Applicable	Not Applicable
+	"2015"	"2015"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2015"	"2015"			1230	10480265	11.7
+	"2016"	"2016"	"< 1 year"	"0"	0	122126	Unreliable
+	"2016"	"2016"	"1 year"	"1"	0	126103	Unreliable
+	"2016"	"2016"	"2 years"	"2"	0	125098	Unreliable
+	"2016"	"2016"	"3 years"	"3"	0	127642	Unreliable
+	"2016"	"2016"	"4 years"	"4"	0	123933	Unreliable
+	"2016"	"2016"	"5 years"	"5"	0	121735	Unreliable
+	"2016"	"2016"	"6 years"	"6"	0	125647	Unreliable
+	"2016"	"2016"	"7 years"	"7"	0	125367	Unreliable
+	"2016"	"2016"	"8 years"	"8"	0	129487	Unreliable
+	"2016"	"2016"	"9 years"	"9"	0	127451	Unreliable
+	"2016"	"2016"	"10 years"	"10"	0	126626	Unreliable
+	"2016"	"2016"	"11 years"	"11"	0	129570	Unreliable
+	"2016"	"2016"	"12 years"	"12"	0	129851	Unreliable
+	"2016"	"2016"	"13 years"	"13"	0	128859	Unreliable
+	"2016"	"2016"	"14 years"	"14"	0	123312	Unreliable
+	"2016"	"2016"	"15 years"	"15"	0	126959	Unreliable
+	"2016"	"2016"	"16 years"	"16"	0	125730	Unreliable
+	"2016"	"2016"	"17 years"	"17"	0	122488	Unreliable
+	"2016"	"2016"	"18 years"	"18"	0	127415	Unreliable
+	"2016"	"2016"	"19 years"	"19"	0	132261	Unreliable
+	"2016"	"2016"	"20 years"	"20"	0	136682	Unreliable
+	"2016"	"2016"	"21 years"	"21"	0	139986	Unreliable
+	"2016"	"2016"	"22 years"	"22"	0	145615	Unreliable
+	"2016"	"2016"	"23 years"	"23"	0	151766	Unreliable
+	"2016"	"2016"	"24 years"	"24"	0	161508	Unreliable
+	"2016"	"2016"	"25 years"	"25"	2	173630	Unreliable
+	"2016"	"2016"	"26 years"	"26"	0	179497	Unreliable
+	"2016"	"2016"	"27 years"	"27"	0	182137	Unreliable
+	"2016"	"2016"	"28 years"	"28"	1	179199	Unreliable
+	"2016"	"2016"	"29 years"	"29"	1	177023	Unreliable
+	"2016"	"2016"	"30 years"	"30"	0	178601	Unreliable
+	"2016"	"2016"	"31 years"	"31"	2	182430	Unreliable
+	"2016"	"2016"	"32 years"	"32"	3	180731	Unreliable
+	"2016"	"2016"	"33 years"	"33"	4	182731	Unreliable
+	"2016"	"2016"	"34 years"	"34"	9	182948	Unreliable
+	"2016"	"2016"	"35 years"	"35"	10	177323	Unreliable
+	"2016"	"2016"	"36 years"	"36"	2	180230	Unreliable
+	"2016"	"2016"	"37 years"	"37"	4	171793	Unreliable
+	"2016"	"2016"	"38 years"	"38"	12	166852	Unreliable
+	"2016"	"2016"	"39 years"	"39"	13	167160	Unreliable
+	"2016"	"2016"	"40 years"	"40"	10	165654	Unreliable
+	"2016"	"2016"	"41 years"	"41"	9	169294	Unreliable
+	"2016"	"2016"	"42 years"	"42"	15	166002	Unreliable
+	"2016"	"2016"	"43 years"	"43"	14	167030	Unreliable
+	"2016"	"2016"	"44 years"	"44"	25	166492	15.0
+	"2016"	"2016"	"45 years"	"45"	10	163100	Unreliable
+	"2016"	"2016"	"46 years"	"46"	15	163528	Unreliable
+	"2016"	"2016"	"47 years"	"47"	19	153386	Unreliable
+	"2016"	"2016"	"48 years"	"48"	17	146618	Unreliable
+	"2016"	"2016"	"49 years"	"49"	27	135637	19.9
+	"2016"	"2016"	"50 years"	"50"	23	136768	16.8
+	"2016"	"2016"	"51 years"	"51"	21	138937	15.1
+	"2016"	"2016"	"52 years"	"52"	22	140898	15.6
+	"2016"	"2016"	"53 years"	"53"	25	139252	18.0
+	"2016"	"2016"	"54 years"	"54"	20	128335	15.6
+	"2016"	"2016"	"55 years"	"55"	40	126870	31.5
+	"2016"	"2016"	"56 years"	"56"	33	132221	25.0
+	"2016"	"2016"	"57 years"	"57"	35	123323	28.4
+	"2016"	"2016"	"58 years"	"58"	34	122971	27.6
+	"2016"	"2016"	"59 years"	"59"	34	119226	28.5
+	"2016"	"2016"	"60 years"	"60"	32	118380	27.0
+	"2016"	"2016"	"61 years"	"61"	31	118154	26.2
+	"2016"	"2016"	"62 years"	"62"	38	110623	34.4
+	"2016"	"2016"	"63 years"	"63"	40	105772	37.8
+	"2016"	"2016"	"64 years"	"64"	32	100502	31.8
+	"2016"	"2016"	"65 years"	"65"	26	97152	26.8
+	"2016"	"2016"	"66 years"	"66"	30	100532	29.8
+	"2016"	"2016"	"67 years"	"67"	31	92359	33.6
+	"2016"	"2016"	"68 years"	"68"	24	86958	27.6
+	"2016"	"2016"	"69 years"	"69"	34	81343	41.8
+	"2016"	"2016"	"70 years"	"70"	22	68880	31.9
+	"2016"	"2016"	"71 years"	"71"	24	66573	36.1
+	"2016"	"2016"	"72 years"	"72"	15	60985	Unreliable
+	"2016"	"2016"	"73 years"	"73"	19	55783	Unreliable
+	"2016"	"2016"	"74 years"	"74"	15	53767	Unreliable
+	"2016"	"2016"	"75 years"	"75"	16	49405	Unreliable
+	"2016"	"2016"	"76 years"	"76"	19	47468	Unreliable
+	"2016"	"2016"	"77 years"	"77"	15	42417	Unreliable
+	"2016"	"2016"	"78 years"	"78"	15	40172	Unreliable
+	"2016"	"2016"	"79 years"	"79"	20	37134	53.9
+	"2016"	"2016"	"80 years"	"80"	17	34675	Unreliable
+	"2016"	"2016"	"81 years"	"81"	12	32389	Unreliable
+	"2016"	"2016"	"82 years"	"82"	16	29016	Unreliable
+	"2016"	"2016"	"83 years"	"83"	14	27932	Unreliable
+	"2016"	"2016"	"84 years"	"84"	13	24989	Unreliable
+	"2016"	"2016"	"85 years"	"85"	9	Not Applicable	Not Applicable
+	"2016"	"2016"	"86 years"	"86"	7	Not Applicable	Not Applicable
+	"2016"	"2016"	"87 years"	"87"	10	Not Applicable	Not Applicable
+	"2016"	"2016"	"88 years"	"88"	12	Not Applicable	Not Applicable
+	"2016"	"2016"	"89 years"	"89"	13	Not Applicable	Not Applicable
+	"2016"	"2016"	"90 years"	"90"	11	Not Applicable	Not Applicable
+	"2016"	"2016"	"91 years"	"91"	12	Not Applicable	Not Applicable
+	"2016"	"2016"	"92 years"	"92"	8	Not Applicable	Not Applicable
+	"2016"	"2016"	"93 years"	"93"	6	Not Applicable	Not Applicable
+	"2016"	"2016"	"94 years"	"94"	4	Not Applicable	Not Applicable
+	"2016"	"2016"	"95 years"	"95"	2	Not Applicable	Not Applicable
+	"2016"	"2016"	"96 years"	"96"	4	Not Applicable	Not Applicable
+	"2016"	"2016"	"97 years"	"97"	1	Not Applicable	Not Applicable
+	"2016"	"2016"	"98 years"	"98"	2	Not Applicable	Not Applicable
+	"2016"	"2016"	"99 years"	"99"	1	Not Applicable	Not Applicable
+	"2016"	"2016"	"100+ years"	"100"	4	Not Applicable	Not Applicable
+	"2016"	"2016"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2016"	"2016"			1187	10674120	11.1
+	"2017"	"2017"	"< 1 year"	"0"	0	119599	Unreliable
+	"2017"	"2017"	"1 year"	"1"	0	123398	Unreliable
+	"2017"	"2017"	"2 years"	"2"	0	128842	Unreliable
+	"2017"	"2017"	"3 years"	"3"	0	126613	Unreliable
+	"2017"	"2017"	"4 years"	"4"	0	128608	Unreliable
+	"2017"	"2017"	"5 years"	"5"	0	124939	Unreliable
+	"2017"	"2017"	"6 years"	"6"	0	122712	Unreliable
+	"2017"	"2017"	"7 years"	"7"	0	127750	Unreliable
+	"2017"	"2017"	"8 years"	"8"	0	127643	Unreliable
+	"2017"	"2017"	"9 years"	"9"	0	131630	Unreliable
+	"2017"	"2017"	"10 years"	"10"	0	129421	Unreliable
+	"2017"	"2017"	"11 years"	"11"	0	128774	Unreliable
+	"2017"	"2017"	"12 years"	"12"	0	131686	Unreliable
+	"2017"	"2017"	"13 years"	"13"	0	132077	Unreliable
+	"2017"	"2017"	"14 years"	"14"	0	131237	Unreliable
+	"2017"	"2017"	"15 years"	"15"	0	126360	Unreliable
+	"2017"	"2017"	"16 years"	"16"	0	130591	Unreliable
+	"2017"	"2017"	"17 years"	"17"	0	130822	Unreliable
+	"2017"	"2017"	"18 years"	"18"	0	129649	Unreliable
+	"2017"	"2017"	"19 years"	"19"	0	135213	Unreliable
+	"2017"	"2017"	"20 years"	"20"	0	139405	Unreliable
+	"2017"	"2017"	"21 years"	"21"	0	144198	Unreliable
+	"2017"	"2017"	"22 years"	"22"	0	149256	Unreliable
+	"2017"	"2017"	"23 years"	"23"	0	156053	Unreliable
+	"2017"	"2017"	"24 years"	"24"	0	162156	Unreliable
+	"2017"	"2017"	"25 years"	"25"	0	171793	Unreliable
+	"2017"	"2017"	"26 years"	"26"	0	183592	Unreliable
+	"2017"	"2017"	"27 years"	"27"	0	189135	Unreliable
+	"2017"	"2017"	"28 years"	"28"	2	190974	Unreliable
+	"2017"	"2017"	"29 years"	"29"	1	187714	Unreliable
+	"2017"	"2017"	"30 years"	"30"	2	185399	Unreliable
+	"2017"	"2017"	"31 years"	"31"	3	186125	Unreliable
+	"2017"	"2017"	"32 years"	"32"	3	189368	Unreliable
+	"2017"	"2017"	"33 years"	"33"	3	187592	Unreliable
+	"2017"	"2017"	"34 years"	"34"	6	189246	Unreliable
+	"2017"	"2017"	"35 years"	"35"	5	188935	Unreliable
+	"2017"	"2017"	"36 years"	"36"	7	182753	Unreliable
+	"2017"	"2017"	"37 years"	"37"	11	185033	Unreliable
+	"2017"	"2017"	"38 years"	"38"	3	176125	Unreliable
+	"2017"	"2017"	"39 years"	"39"	6	171246	Unreliable
+	"2017"	"2017"	"40 years"	"40"	16	171299	Unreliable
+	"2017"	"2017"	"41 years"	"41"	8	169586	Unreliable
+	"2017"	"2017"	"42 years"	"42"	10	172847	Unreliable
+	"2017"	"2017"	"43 years"	"43"	16	169225	Unreliable
+	"2017"	"2017"	"44 years"	"44"	16	170048	Unreliable
+	"2017"	"2017"	"45 years"	"45"	26	169251	15.4
+	"2017"	"2017"	"46 years"	"46"	20	165544	12.1
+	"2017"	"2017"	"47 years"	"47"	29	165879	17.5
+	"2017"	"2017"	"48 years"	"48"	25	155638	16.1
+	"2017"	"2017"	"49 years"	"49"	27	148839	18.1
+	"2017"	"2017"	"50 years"	"50"	29	137868	21.0
+	"2017"	"2017"	"51 years"	"51"	32	138801	23.1
+	"2017"	"2017"	"52 years"	"52"	28	140941	19.9
+	"2017"	"2017"	"53 years"	"53"	32	142918	22.4
+	"2017"	"2017"	"54 years"	"54"	34	141349	24.1
+	"2017"	"2017"	"55 years"	"55"	34	130324	26.1
+	"2017"	"2017"	"56 years"	"56"	44	128800	34.2
+	"2017"	"2017"	"57 years"	"57"	28	134103	20.9
+	"2017"	"2017"	"58 years"	"58"	39	125144	31.2
+	"2017"	"2017"	"59 years"	"59"	34	124934	27.2
+	"2017"	"2017"	"60 years"	"60"	36	121183	29.7
+	"2017"	"2017"	"61 years"	"61"	38	120320	31.6
+	"2017"	"2017"	"62 years"	"62"	32	120030	26.7
+	"2017"	"2017"	"63 years"	"63"	33	112334	29.4
+	"2017"	"2017"	"64 years"	"64"	30	107428	27.9
+	"2017"	"2017"	"65 years"	"65"	42	102169	41.1
+	"2017"	"2017"	"66 years"	"66"	28	98667	28.4
+	"2017"	"2017"	"67 years"	"67"	31	101936	30.4
+	"2017"	"2017"	"68 years"	"68"	41	93549	43.8
+	"2017"	"2017"	"69 years"	"69"	27	87979	30.7
+	"2017"	"2017"	"70 years"	"70"	35	81979	42.7
+	"2017"	"2017"	"71 years"	"71"	27	69326	38.9
+	"2017"	"2017"	"72 years"	"72"	27	66840	40.4
+	"2017"	"2017"	"73 years"	"73"	26	61053	42.6
+	"2017"	"2017"	"74 years"	"74"	19	55919	Unreliable
+	"2017"	"2017"	"75 years"	"75"	17	53784	Unreliable
+	"2017"	"2017"	"76 years"	"76"	22	49371	44.6
+	"2017"	"2017"	"77 years"	"77"	17	47389	Unreliable
+	"2017"	"2017"	"78 years"	"78"	17	42218	Unreliable
+	"2017"	"2017"	"79 years"	"79"	13	39759	Unreliable
+	"2017"	"2017"	"80 years"	"80"	12	36668	Unreliable
+	"2017"	"2017"	"81 years"	"81"	15	34086	Unreliable
+	"2017"	"2017"	"82 years"	"82"	17	31732	Unreliable
+	"2017"	"2017"	"83 years"	"83"	14	28337	Unreliable
+	"2017"	"2017"	"84 years"	"84"	21	27211	77.2
+	"2017"	"2017"	"85 years"	"85"	13	Not Applicable	Not Applicable
+	"2017"	"2017"	"86 years"	"86"	15	Not Applicable	Not Applicable
+	"2017"	"2017"	"87 years"	"87"	23	Not Applicable	Not Applicable
+	"2017"	"2017"	"88 years"	"88"	12	Not Applicable	Not Applicable
+	"2017"	"2017"	"89 years"	"89"	17	Not Applicable	Not Applicable
+	"2017"	"2017"	"90 years"	"90"	10	Not Applicable	Not Applicable
+	"2017"	"2017"	"91 years"	"91"	7	Not Applicable	Not Applicable
+	"2017"	"2017"	"92 years"	"92"	11	Not Applicable	Not Applicable
+	"2017"	"2017"	"93 years"	"93"	5	Not Applicable	Not Applicable
+	"2017"	"2017"	"94 years"	"94"	8	Not Applicable	Not Applicable
+	"2017"	"2017"	"95 years"	"95"	6	Not Applicable	Not Applicable
+	"2017"	"2017"	"96 years"	"96"	8	Not Applicable	Not Applicable
+	"2017"	"2017"	"97 years"	"97"	4	Not Applicable	Not Applicable
+	"2017"	"2017"	"98 years"	"98"	3	Not Applicable	Not Applicable
+	"2017"	"2017"	"99 years"	"99"	2	Not Applicable	Not Applicable
+	"2017"	"2017"	"100+ years"	"100"	5	Not Applicable	Not Applicable
+	"2017"	"2017"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2017"	"2017"			1365	11050388	12.4
+	"2018"	"2018"	"< 1 year"	"0"	0	116572	Unreliable
+	"2018"	"2018"	"1 year"	"1"	0	121382	Unreliable
+	"2018"	"2018"	"2 years"	"2"	0	126650	Unreliable
+	"2018"	"2018"	"3 years"	"3"	0	131223	Unreliable
+	"2018"	"2018"	"4 years"	"4"	0	128664	Unreliable
+	"2018"	"2018"	"5 years"	"5"	0	130544	Unreliable
+	"2018"	"2018"	"6 years"	"6"	0	126596	Unreliable
+	"2018"	"2018"	"7 years"	"7"	0	124281	Unreliable
+	"2018"	"2018"	"8 years"	"8"	0	129116	Unreliable
+	"2018"	"2018"	"9 years"	"9"	0	128879	Unreliable
+	"2018"	"2018"	"10 years"	"10"	0	132629	Unreliable
+	"2018"	"2018"	"11 years"	"11"	0	130494	Unreliable
+	"2018"	"2018"	"12 years"	"12"	0	129849	Unreliable
+	"2018"	"2018"	"13 years"	"13"	0	132936	Unreliable
+	"2018"	"2018"	"14 years"	"14"	0	133415	Unreliable
+	"2018"	"2018"	"15 years"	"15"	0	133360	Unreliable
+	"2018"	"2018"	"16 years"	"16"	0	129000	Unreliable
+	"2018"	"2018"	"17 years"	"17"	0	134299	Unreliable
+	"2018"	"2018"	"18 years"	"18"	0	136104	Unreliable
+	"2018"	"2018"	"19 years"	"19"	0	134645	Unreliable
+	"2018"	"2018"	"20 years"	"20"	0	139166	Unreliable
+	"2018"	"2018"	"21 years"	"21"	0	144047	Unreliable
+	"2018"	"2018"	"22 years"	"22"	0	150760	Unreliable
+	"2018"	"2018"	"23 years"	"23"	0	156888	Unreliable
+	"2018"	"2018"	"24 years"	"24"	0	163375	Unreliable
+	"2018"	"2018"	"25 years"	"25"	0	169392	Unreliable
+	"2018"	"2018"	"26 years"	"26"	0	179132	Unreliable
+	"2018"	"2018"	"27 years"	"27"	0	190874	Unreliable
+	"2018"	"2018"	"28 years"	"28"	0	195893	Unreliable
+	"2018"	"2018"	"29 years"	"29"	0	196654	Unreliable
+	"2018"	"2018"	"30 years"	"30"	1	192535	Unreliable
+	"2018"	"2018"	"31 years"	"31"	0	189248	Unreliable
+	"2018"	"2018"	"32 years"	"32"	1	189555	Unreliable
+	"2018"	"2018"	"33 years"	"33"	4	192816	Unreliable
+	"2018"	"2018"	"34 years"	"34"	7	190948	Unreliable
+	"2018"	"2018"	"35 years"	"35"	7	192189	Unreliable
+	"2018"	"2018"	"36 years"	"36"	7	191317	Unreliable
+	"2018"	"2018"	"37 years"	"37"	7	184482	Unreliable
+	"2018"	"2018"	"38 years"	"38"	11	186343	Unreliable
+	"2018"	"2018"	"39 years"	"39"	12	177051	Unreliable
+	"2018"	"2018"	"40 years"	"40"	13	171861	Unreliable
+	"2018"	"2018"	"41 years"	"41"	14	172026	Unreliable
+	"2018"	"2018"	"42 years"	"42"	8	169951	Unreliable
+	"2018"	"2018"	"43 years"	"43"	10	172932	Unreliable
+	"2018"	"2018"	"44 years"	"44"	24	168953	14.2
+	"2018"	"2018"	"45 years"	"45"	19	169265	Unreliable
+	"2018"	"2018"	"46 years"	"46"	21	168491	12.5
+	"2018"	"2018"	"47 years"	"47"	20	164852	12.1
+	"2018"	"2018"	"48 years"	"48"	21	165001	12.7
+	"2018"	"2018"	"49 years"	"49"	23	154580	14.9
+	"2018"	"2018"	"50 years"	"50"	18	147580	Unreliable
+	"2018"	"2018"	"51 years"	"51"	24	136551	17.6
+	"2018"	"2018"	"52 years"	"52"	24	137545	17.4
+	"2018"	"2018"	"53 years"	"53"	26	139797	18.6
+	"2018"	"2018"	"54 years"	"54"	33	141974	23.2
+	"2018"	"2018"	"55 years"	"55"	37	140376	26.4
+	"2018"	"2018"	"56 years"	"56"	43	129329	33.2
+	"2018"	"2018"	"57 years"	"57"	38	127697	29.8
+	"2018"	"2018"	"58 years"	"58"	37	132942	27.8
+	"2018"	"2018"	"59 years"	"59"	41	124308	33.0
+	"2018"	"2018"	"60 years"	"60"	33	124294	26.5
+	"2018"	"2018"	"61 years"	"61"	30	120607	24.9
+	"2018"	"2018"	"62 years"	"62"	42	119634	35.1
+	"2018"	"2018"	"63 years"	"63"	34	119296	28.5
+	"2018"	"2018"	"64 years"	"64"	36	111589	32.3
+	"2018"	"2018"	"65 years"	"65"	47	106715	44.0
+	"2018"	"2018"	"66 years"	"66"	48	101355	47.4
+	"2018"	"2018"	"67 years"	"67"	29	97913	29.6
+	"2018"	"2018"	"68 years"	"68"	42	101016	41.6
+	"2018"	"2018"	"69 years"	"69"	21	92517	22.7
+	"2018"	"2018"	"70 years"	"70"	30	86666	34.6
+	"2018"	"2018"	"71 years"	"71"	35	80743	43.3
+	"2018"	"2018"	"72 years"	"72"	34	68249	49.8
+	"2018"	"2018"	"73 years"	"73"	21	65686	32.0
+	"2018"	"2018"	"74 years"	"74"	26	59955	43.4
+	"2018"	"2018"	"75 years"	"75"	32	54722	58.5
+	"2018"	"2018"	"76 years"	"76"	17	52525	Unreliable
+	"2018"	"2018"	"77 years"	"77"	28	48013	58.3
+	"2018"	"2018"	"78 years"	"78"	24	45958	52.2
+	"2018"	"2018"	"79 years"	"79"	29	40857	71.0
+	"2018"	"2018"	"80 years"	"80"	12	38488	Unreliable
+	"2018"	"2018"	"81 years"	"81"	22	35461	62.0
+	"2018"	"2018"	"82 years"	"82"	24	32914	72.9
+	"2018"	"2018"	"83 years"	"83"	17	30499	Unreliable
+	"2018"	"2018"	"84 years"	"84"	23	27095	84.9
+	"2018"	"2018"	"85 years"	"85"	25	Not Applicable	Not Applicable
+	"2018"	"2018"	"86 years"	"86"	18	Not Applicable	Not Applicable
+	"2018"	"2018"	"87 years"	"87"	12	Not Applicable	Not Applicable
+	"2018"	"2018"	"88 years"	"88"	11	Not Applicable	Not Applicable
+	"2018"	"2018"	"89 years"	"89"	18	Not Applicable	Not Applicable
+	"2018"	"2018"	"90 years"	"90"	19	Not Applicable	Not Applicable
+	"2018"	"2018"	"91 years"	"91"	10	Not Applicable	Not Applicable
+	"2018"	"2018"	"92 years"	"92"	7	Not Applicable	Not Applicable
+	"2018"	"2018"	"93 years"	"93"	7	Not Applicable	Not Applicable
+	"2018"	"2018"	"94 years"	"94"	4	Not Applicable	Not Applicable
+	"2018"	"2018"	"95 years"	"95"	8	Not Applicable	Not Applicable
+	"2018"	"2018"	"96 years"	"96"	3	Not Applicable	Not Applicable
+	"2018"	"2018"	"97 years"	"97"	4	Not Applicable	Not Applicable
+	"2018"	"2018"	"98 years"	"98"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"99 years"	"99"	5	Not Applicable	Not Applicable
+	"2018"	"2018"	"100+ years"	"100"	4	Not Applicable	Not Applicable
+	"2018"	"2018"	"Not Stated"	"NS"	0	Not Applicable	Not Applicable
+"Total"	"2018"	"2018"			1442	11244827	12.8
+"Total"					18679	170239847	11.0
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Gender: Female"
+"ICD-10 Codes: C50.0 (Nipple and areola - Malignant neoplasms); C50.1 (Central portion of breast - Malignant neoplasms); C50.2"
+"(Upper-inner quadrant of breast - Malignant neoplasms); C50.3 (Lower-inner quadrant of breast - Malignant neoplasms); C50.4"
+"(Upper-outer quadrant of breast - Malignant neoplasms); C50.5 (Lower-outer quadrant of breast - Malignant neoplasms); C50.6"
+"(Axillary tail of breast - Malignant neoplasms); C50.8 (Overlapping lesion of breast - Malignant neoplasms); C50.9 (Breast,"
+"unspecified - Malignant neoplasms)"
+"Race: Asian or Pacific Islander"
+"Group By: Year; Single-Year Ages"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Jun 29, 2020 12:56:23 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Jun 29, 2020 12:56:23 PM"
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Ages 85-100."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"3. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/ucd.html#Georgia-Reporting-Anomalies."
+"4. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#New-Jersey-Reporting-Anomalies."
+"5. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/ucd.html#California-Reporting-Anomalies."
+"6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"7. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Not Stated."
+"8. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Racial Differences."
+"9. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"10. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
+"11. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#ICD-10 Changes."
